@@ -1,0 +1,968 @@
+2023-12-18 11:01:09 | Se intenta crear comando init con args:[]
+2023-12-18 11:01:09 | Se creo correctamente el comando init:[]
+2023-12-18 11:01:09 | Se ejecuta init
+2023-12-18 11:01:09 | Directorio gir creado en ./.gir
+2023-12-18 11:01:09 | Ejecutando add
+2023-12-18 11:01:09 | Buscando archivos ignorados
+2023-12-18 11:01:09 | Agregando archivo al index
+2023-12-18 11:01:09 | Objeto gir hasheado en archivo
+2023-12-18 11:01:09 | Objeto gir hasheado en archivo
+2023-12-18 11:01:09 | Objeto gir hasheado en archivo
+2023-12-18 11:01:09 | Objeto gir hasheado en archivo
+2023-12-18 11:01:10 | commit 7cea8c91af80d0520cab816a3d025eadd0d708c7
+ Author: 
+commit 
+2023-12-18 11:01:10 | Ejecutando add
+2023-12-18 11:01:10 | Buscando archivos ignorados
+2023-12-18 11:01:10 | Agregando archivo al index
+2023-12-18 11:01:10 | Objeto gir hasheado en archivo
+2023-12-18 11:01:10 | Objeto gir hasheado en archivo
+2023-12-18 11:01:11 | Objeto gir hasheado en archivo
+2023-12-18 11:01:11 | Objeto gir hasheado en archivo
+2023-12-18 11:01:11 | commit 4604ddca531700a0ae29bd64ce08d69359601b4c
+ Author: 
+commit 
+2023-12-18 11:01:11 | Ejecutando comando remote
+2023-12-18 11:01:11 | Se agrego el remote origin
+2023-12-18 11:01:11 | Iniciando git receive pack con el servidor
+2023-12-18 11:01:11 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:01:11 | Referencia actualizar: 0000000000000000000000000000000000000000 7cea8c91af80d0520cab816a3d025eadd0d708c7 "refs/heads/rama"
+2023-12-18 11:01:11 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "7cea8c91af80d0520cab816a3d025eadd0d708c7", "refs/heads/rama")
+2023-12-18 11:01:11 | Se envia en push los objetos: {"7cea8c91af80d0520cab816a3d025eadd0d708c7", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 11:01:11 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:01:11 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:01:11 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:01:11 | Push ejecutado con exito
+2023-12-18 11:01:11 | Iniciando git receive pack con el servidor
+2023-12-18 11:01:11 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:01:11 | Referencia actualizar: 0000000000000000000000000000000000000000 4604ddca531700a0ae29bd64ce08d69359601b4c "refs/heads/master"
+2023-12-18 11:01:11 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "4604ddca531700a0ae29bd64ce08d69359601b4c", "refs/heads/master")
+2023-12-18 11:01:11 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "7cea8c91af80d0520cab816a3d025eadd0d708c7", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "4604ddca531700a0ae29bd64ce08d69359601b4c", "33e89685c48a1f4386f447fa0a76b59efd78a558", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 11:01:11 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:01:11 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:01:11 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:01:11 | Push ejecutado con exito
+2023-12-18 11:07:42 | Se intenta crear comando init con args:[]
+2023-12-18 11:07:42 | Se creo correctamente el comando init:[]
+2023-12-18 11:07:42 | Se ejecuta init
+2023-12-18 11:07:42 | Directorio gir creado en ./.gir
+2023-12-18 11:07:42 | Ejecutando add
+2023-12-18 11:07:42 | Buscando archivos ignorados
+2023-12-18 11:07:42 | Agregando archivo al index
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:42 | commit 9e6848943d5216b59141ed8cf535e95d87e43c4e
+ Author: 
+commit 
+2023-12-18 11:07:42 | Ejecutando add
+2023-12-18 11:07:42 | Buscando archivos ignorados
+2023-12-18 11:07:42 | Agregando archivo al index
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:42 | Objeto gir hasheado en archivo
+2023-12-18 11:07:43 | Objeto gir hasheado en archivo
+2023-12-18 11:07:43 | Objeto gir hasheado en archivo
+2023-12-18 11:07:43 | commit ccfb700a33894c953f276c94978b842ef2438906
+ Author: 
+commit 
+2023-12-18 11:07:43 | Ejecutando comando remote
+2023-12-18 11:07:43 | Se agrego el remote origin
+2023-12-18 11:07:43 | Iniciando git receive pack con el servidor
+2023-12-18 11:07:43 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:07:43 | Referencia actualizar: 0000000000000000000000000000000000000000 9e6848943d5216b59141ed8cf535e95d87e43c4e "refs/heads/rama"
+2023-12-18 11:07:43 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "9e6848943d5216b59141ed8cf535e95d87e43c4e", "refs/heads/rama")
+2023-12-18 11:07:43 | Se envia en push los objetos: {"9e6848943d5216b59141ed8cf535e95d87e43c4e", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 11:07:43 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:07:43 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:07:43 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:07:43 | Push ejecutado con exito
+2023-12-18 11:07:43 | Iniciando git receive pack con el servidor
+2023-12-18 11:07:43 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:07:43 | Referencia actualizar: 0000000000000000000000000000000000000000 ccfb700a33894c953f276c94978b842ef2438906 "refs/heads/master"
+2023-12-18 11:07:43 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "ccfb700a33894c953f276c94978b842ef2438906", "refs/heads/master")
+2023-12-18 11:07:43 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "ccfb700a33894c953f276c94978b842ef2438906", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "33e89685c48a1f4386f447fa0a76b59efd78a558", "9e6848943d5216b59141ed8cf535e95d87e43c4e"}
+2023-12-18 11:07:43 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:07:43 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:07:43 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:07:43 | Push ejecutado con exito
+2023-12-18 11:11:13 | Se intenta crear comando init con args:[]
+2023-12-18 11:11:13 | Se creo correctamente el comando init:[]
+2023-12-18 11:11:13 | Se ejecuta init
+2023-12-18 11:11:13 | Directorio gir creado en ./.gir
+2023-12-18 11:11:13 | Ejecutando add
+2023-12-18 11:11:13 | Buscando archivos ignorados
+2023-12-18 11:11:13 | Agregando archivo al index
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:13 | commit edb0448bf45d25fe8ed2156fc0d881683831b597
+ Author: 
+commit 
+2023-12-18 11:11:13 | Ejecutando add
+2023-12-18 11:11:13 | Buscando archivos ignorados
+2023-12-18 11:11:13 | Agregando archivo al index
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:13 | Objeto gir hasheado en archivo
+2023-12-18 11:11:14 | Objeto gir hasheado en archivo
+2023-12-18 11:11:14 | Objeto gir hasheado en archivo
+2023-12-18 11:11:14 | commit e0410125afec68a648cbc7466f8ba41a7e2dbf44
+ Author: 
+commit 
+2023-12-18 11:11:14 | Ejecutando comando remote
+2023-12-18 11:11:14 | Se agrego el remote origin
+2023-12-18 11:11:14 | Iniciando git receive pack con el servidor
+2023-12-18 11:11:14 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:11:14 | Referencia actualizar: 0000000000000000000000000000000000000000 edb0448bf45d25fe8ed2156fc0d881683831b597 "refs/heads/rama"
+2023-12-18 11:11:14 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "edb0448bf45d25fe8ed2156fc0d881683831b597", "refs/heads/rama")
+2023-12-18 11:11:14 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "edb0448bf45d25fe8ed2156fc0d881683831b597", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 11:11:14 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:11:14 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:11:14 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:11:14 | Push ejecutado con exito
+2023-12-18 11:11:14 | Iniciando git receive pack con el servidor
+2023-12-18 11:11:14 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:11:14 | Referencia actualizar: 0000000000000000000000000000000000000000 e0410125afec68a648cbc7466f8ba41a7e2dbf44 "refs/heads/master"
+2023-12-18 11:11:14 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "e0410125afec68a648cbc7466f8ba41a7e2dbf44", "refs/heads/master")
+2023-12-18 11:11:14 | Se envia en push los objetos: {"95e4ec28265d26db1964738ceb6ae67fed47e87b", "edb0448bf45d25fe8ed2156fc0d881683831b597", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e0410125afec68a648cbc7466f8ba41a7e2dbf44", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-18 11:11:14 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:11:14 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:11:14 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:11:14 | Push ejecutado con exito
+2023-12-18 11:29:30 | Se intenta crear comando init con args:[]
+2023-12-18 11:29:30 | Se creo correctamente el comando init:[]
+2023-12-18 11:29:30 | Se ejecuta init
+2023-12-18 11:29:30 | Directorio gir creado en ./.gir
+2023-12-18 11:29:30 | Ejecutando add
+2023-12-18 11:29:30 | Buscando archivos ignorados
+2023-12-18 11:29:30 | Agregando archivo al index
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:30 | commit 5b2fabcef07e3003c4a0e312424a11262ce863d8
+ Author: 
+commit 
+2023-12-18 11:29:30 | Ejecutando add
+2023-12-18 11:29:30 | Buscando archivos ignorados
+2023-12-18 11:29:30 | Agregando archivo al index
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:30 | Objeto gir hasheado en archivo
+2023-12-18 11:29:31 | Objeto gir hasheado en archivo
+2023-12-18 11:29:31 | Objeto gir hasheado en archivo
+2023-12-18 11:29:31 | commit ee3ddda427c2790ad29b81979d9a9b8fb5d996be
+ Author: 
+commit 
+2023-12-18 11:29:31 | Ejecutando comando remote
+2023-12-18 11:29:31 | Se agrego el remote origin
+2023-12-18 11:29:31 | Iniciando git receive pack con el servidor
+2023-12-18 11:29:31 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:29:31 | Referencia actualizar: 0000000000000000000000000000000000000000 5b2fabcef07e3003c4a0e312424a11262ce863d8 "refs/heads/rama"
+2023-12-18 11:29:31 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "5b2fabcef07e3003c4a0e312424a11262ce863d8", "refs/heads/rama")
+2023-12-18 11:29:31 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "5b2fabcef07e3003c4a0e312424a11262ce863d8", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 11:29:31 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:29:31 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:29:31 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:29:31 | Push ejecutado con exito
+2023-12-18 11:29:31 | Iniciando git receive pack con el servidor
+2023-12-18 11:29:31 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:29:31 | Referencia actualizar: 0000000000000000000000000000000000000000 ee3ddda427c2790ad29b81979d9a9b8fb5d996be "refs/heads/master"
+2023-12-18 11:29:31 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "ee3ddda427c2790ad29b81979d9a9b8fb5d996be", "refs/heads/master")
+2023-12-18 11:29:31 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "5b2fabcef07e3003c4a0e312424a11262ce863d8", "ee3ddda427c2790ad29b81979d9a9b8fb5d996be", "e4df82e53180b1d1806bf25cadb072c7a264db68", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-18 11:29:31 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:29:31 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:29:31 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:29:31 | Push ejecutado con exito
+2023-12-18 11:31:38 | Se intenta crear comando init con args:[]
+2023-12-18 11:31:38 | Se creo correctamente el comando init:[]
+2023-12-18 11:31:38 | Se ejecuta init
+2023-12-18 11:31:38 | Directorio gir creado en ./.gir
+2023-12-18 11:31:38 | Ejecutando add
+2023-12-18 11:31:38 | Buscando archivos ignorados
+2023-12-18 11:31:38 | Agregando archivo al index
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:38 | commit 14418d7ad5ede71a4a7dbb1d78652d5b9689b3fa
+ Author: 
+commit 
+2023-12-18 11:31:38 | Ejecutando add
+2023-12-18 11:31:38 | Buscando archivos ignorados
+2023-12-18 11:31:38 | Agregando archivo al index
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:38 | Objeto gir hasheado en archivo
+2023-12-18 11:31:39 | Objeto gir hasheado en archivo
+2023-12-18 11:31:39 | Objeto gir hasheado en archivo
+2023-12-18 11:31:39 | commit 30bf300c6a3a40733b078228fc14c7e64196274a
+ Author: 
+commit 
+2023-12-18 11:31:39 | Ejecutando comando remote
+2023-12-18 11:31:39 | Se agrego el remote origin
+2023-12-18 11:31:39 | Iniciando git receive pack con el servidor
+2023-12-18 11:31:39 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:31:39 | Referencia actualizar: 0000000000000000000000000000000000000000 14418d7ad5ede71a4a7dbb1d78652d5b9689b3fa "refs/heads/rama"
+2023-12-18 11:31:39 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "14418d7ad5ede71a4a7dbb1d78652d5b9689b3fa", "refs/heads/rama")
+2023-12-18 11:31:39 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "14418d7ad5ede71a4a7dbb1d78652d5b9689b3fa", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 11:31:39 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:31:39 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:31:39 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:31:39 | Push ejecutado con exito
+2023-12-18 11:31:39 | Iniciando git receive pack con el servidor
+2023-12-18 11:31:39 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:31:39 | Referencia actualizar: 0000000000000000000000000000000000000000 30bf300c6a3a40733b078228fc14c7e64196274a "refs/heads/master"
+2023-12-18 11:31:39 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "30bf300c6a3a40733b078228fc14c7e64196274a", "refs/heads/master")
+2023-12-18 11:31:39 | Se envia en push los objetos: {"95e4ec28265d26db1964738ceb6ae67fed47e87b", "14418d7ad5ede71a4a7dbb1d78652d5b9689b3fa", "30bf300c6a3a40733b078228fc14c7e64196274a", "33e89685c48a1f4386f447fa0a76b59efd78a558", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 11:31:39 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:31:39 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:31:39 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:31:39 | Push ejecutado con exito
+2023-12-18 11:33:05 | Se intenta crear comando init con args:[]
+2023-12-18 11:33:05 | Se creo correctamente el comando init:[]
+2023-12-18 11:33:05 | Se ejecuta init
+2023-12-18 11:33:05 | Directorio gir creado en ./.gir
+2023-12-18 11:33:05 | Ejecutando add
+2023-12-18 11:33:05 | Buscando archivos ignorados
+2023-12-18 11:33:05 | Agregando archivo al index
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:05 | commit 12b4992bcd50c2b5618cd1422372c7c88d09198d
+ Author: 
+commit 
+2023-12-18 11:33:05 | Ejecutando add
+2023-12-18 11:33:05 | Buscando archivos ignorados
+2023-12-18 11:33:05 | Agregando archivo al index
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:05 | Objeto gir hasheado en archivo
+2023-12-18 11:33:06 | Objeto gir hasheado en archivo
+2023-12-18 11:33:06 | Objeto gir hasheado en archivo
+2023-12-18 11:33:06 | commit dbfc424582c69f0178bb4705bcd92d1ac758f036
+ Author: 
+commit 
+2023-12-18 11:33:06 | Ejecutando comando remote
+2023-12-18 11:33:06 | Se agrego el remote origin
+2023-12-18 11:33:06 | Iniciando git receive pack con el servidor
+2023-12-18 11:33:06 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:33:06 | Referencia actualizar: 0000000000000000000000000000000000000000 12b4992bcd50c2b5618cd1422372c7c88d09198d "refs/heads/rama"
+2023-12-18 11:33:06 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "12b4992bcd50c2b5618cd1422372c7c88d09198d", "refs/heads/rama")
+2023-12-18 11:33:06 | Se envia en push los objetos: {"12b4992bcd50c2b5618cd1422372c7c88d09198d", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 11:33:06 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:33:06 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:33:06 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 11:33:06 | Push ejecutado con exito
+2023-12-18 11:33:06 | Iniciando git receive pack con el servidor
+2023-12-18 11:33:07 | Fase de descubrimiento ejecuta con exito
+2023-12-18 11:33:07 | Referencia actualizar: 0000000000000000000000000000000000000000 dbfc424582c69f0178bb4705bcd92d1ac758f036 "refs/heads/master"
+2023-12-18 11:33:07 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "dbfc424582c69f0178bb4705bcd92d1ac758f036", "refs/heads/master")
+2023-12-18 11:33:07 | Se envia en push los objetos: {"dbfc424582c69f0178bb4705bcd92d1ac758f036", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "12b4992bcd50c2b5618cd1422372c7c88d09198d", "e4df82e53180b1d1806bf25cadb072c7a264db68", "33e89685c48a1f4386f447fa0a76b59efd78a558", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 11:33:07 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:33:07 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:33:07 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 11:33:07 | Push ejecutado con exito
+2023-12-18 13:46:04 | Se intenta crear comando init con args:[]
+2023-12-18 13:46:04 | Se creo correctamente el comando init:[]
+2023-12-18 13:46:04 | Se ejecuta init
+2023-12-18 13:46:04 | Directorio gir creado en ./.gir
+2023-12-18 13:46:04 | Ejecutando add
+2023-12-18 13:46:04 | Buscando archivos ignorados
+2023-12-18 13:46:04 | Agregando archivo al index
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:04 | commit 61b651492019d1720469d08369dd2fe084b307eb
+ Author: 
+commit 
+2023-12-18 13:46:04 | Ejecutando add
+2023-12-18 13:46:04 | Buscando archivos ignorados
+2023-12-18 13:46:04 | Agregando archivo al index
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:04 | Objeto gir hasheado en archivo
+2023-12-18 13:46:05 | Objeto gir hasheado en archivo
+2023-12-18 13:46:05 | Objeto gir hasheado en archivo
+2023-12-18 13:46:05 | commit 6da8c9c4bc1bb8976ce42a7bad5952639b604623
+ Author: 
+commit 
+2023-12-18 13:46:05 | Ejecutando comando remote
+2023-12-18 13:46:05 | Se agrego el remote origin
+2023-12-18 13:46:05 | Iniciando git receive pack con el servidor
+2023-12-18 13:46:05 | Fase de descubrimiento ejecuta con exito
+2023-12-18 13:46:05 | Referencia actualizar: 0000000000000000000000000000000000000000 61b651492019d1720469d08369dd2fe084b307eb "refs/heads/rama"
+2023-12-18 13:46:05 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "61b651492019d1720469d08369dd2fe084b307eb", "refs/heads/rama")
+2023-12-18 13:46:05 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "61b651492019d1720469d08369dd2fe084b307eb", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 13:46:05 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:46:05 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:46:05 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:46:05 | Push ejecutado con exito
+2023-12-18 13:46:05 | Iniciando git receive pack con el servidor
+2023-12-18 13:46:05 | Fase de descubrimiento ejecuta con exito
+2023-12-18 13:46:05 | Referencia actualizar: 0000000000000000000000000000000000000000 6da8c9c4bc1bb8976ce42a7bad5952639b604623 "refs/heads/master"
+2023-12-18 13:46:05 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "6da8c9c4bc1bb8976ce42a7bad5952639b604623", "refs/heads/master")
+2023-12-18 13:46:05 | Se envia en push los objetos: {"33e89685c48a1f4386f447fa0a76b59efd78a558", "6da8c9c4bc1bb8976ce42a7bad5952639b604623", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "61b651492019d1720469d08369dd2fe084b307eb", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 13:46:05 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:46:05 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:46:05 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:46:05 | Push ejecutado con exito
+2023-12-18 13:48:51 | Se intenta crear comando init con args:[]
+2023-12-18 13:48:51 | Se creo correctamente el comando init:[]
+2023-12-18 13:48:51 | Se ejecuta init
+2023-12-18 13:48:51 | Directorio gir creado en ./.gir
+2023-12-18 13:48:51 | Ejecutando add
+2023-12-18 13:48:51 | Buscando archivos ignorados
+2023-12-18 13:48:51 | Agregando archivo al index
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:51 | commit 84390efd81ed69f2b068fb36d8c949dd0133f56f
+ Author: 
+commit 
+2023-12-18 13:48:51 | Ejecutando add
+2023-12-18 13:48:51 | Buscando archivos ignorados
+2023-12-18 13:48:51 | Agregando archivo al index
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:51 | Objeto gir hasheado en archivo
+2023-12-18 13:48:52 | Objeto gir hasheado en archivo
+2023-12-18 13:48:52 | Objeto gir hasheado en archivo
+2023-12-18 13:48:52 | commit 03329eab1dfe1635e4dab1cf85c80820eef589f2
+ Author: 
+commit 
+2023-12-18 13:48:52 | Ejecutando comando remote
+2023-12-18 13:48:52 | Se agrego el remote origin
+2023-12-18 13:48:52 | Iniciando git receive pack con el servidor
+2023-12-18 13:48:52 | Fase de descubrimiento ejecuta con exito
+2023-12-18 13:48:52 | Referencia actualizar: 0000000000000000000000000000000000000000 84390efd81ed69f2b068fb36d8c949dd0133f56f "refs/heads/rama"
+2023-12-18 13:48:52 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "84390efd81ed69f2b068fb36d8c949dd0133f56f", "refs/heads/rama")
+2023-12-18 13:48:52 | Se envia en push los objetos: {"84390efd81ed69f2b068fb36d8c949dd0133f56f", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 13:48:52 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:48:52 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:48:52 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 13:48:52 | Push ejecutado con exito
+2023-12-18 13:48:52 | Iniciando git receive pack con el servidor
+2023-12-18 13:48:52 | Fase de descubrimiento ejecuta con exito
+2023-12-18 13:48:52 | Referencia actualizar: 0000000000000000000000000000000000000000 03329eab1dfe1635e4dab1cf85c80820eef589f2 "refs/heads/master"
+2023-12-18 13:48:52 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "03329eab1dfe1635e4dab1cf85c80820eef589f2", "refs/heads/master")
+2023-12-18 13:48:52 | Se envia en push los objetos: {"84390efd81ed69f2b068fb36d8c949dd0133f56f", "33e89685c48a1f4386f447fa0a76b59efd78a558", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "03329eab1dfe1635e4dab1cf85c80820eef589f2"}
+2023-12-18 13:48:52 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:48:52 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:48:52 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 13:48:52 | Push ejecutado con exito
+2023-12-18 14:14:47 | Se intenta crear comando init con args:[]
+2023-12-18 14:14:47 | Se creo correctamente el comando init:[]
+2023-12-18 14:14:47 | Se ejecuta init
+2023-12-18 14:14:47 | Directorio gir creado en ./.gir
+2023-12-18 14:14:47 | Ejecutando add
+2023-12-18 14:14:47 | Buscando archivos ignorados
+2023-12-18 14:14:47 | Agregando archivo al index
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:47 | commit 9f002f2dcf822e86a71d6be5998cf8f6789e7ae6
+ Author: 
+commit 
+2023-12-18 14:14:47 | Ejecutando add
+2023-12-18 14:14:47 | Buscando archivos ignorados
+2023-12-18 14:14:47 | Agregando archivo al index
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:47 | Objeto gir hasheado en archivo
+2023-12-18 14:14:48 | Objeto gir hasheado en archivo
+2023-12-18 14:14:48 | Objeto gir hasheado en archivo
+2023-12-18 14:14:48 | commit f57ae883f813228a4c46bf151217393a89f37f11
+ Author: 
+commit 
+2023-12-18 14:14:48 | Ejecutando comando remote
+2023-12-18 14:14:48 | Se agrego el remote origin
+2023-12-18 14:14:48 | Iniciando git receive pack con el servidor
+2023-12-18 14:14:48 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:14:48 | Referencia actualizar: 0000000000000000000000000000000000000000 9f002f2dcf822e86a71d6be5998cf8f6789e7ae6 "refs/heads/rama"
+2023-12-18 14:14:48 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "9f002f2dcf822e86a71d6be5998cf8f6789e7ae6", "refs/heads/rama")
+2023-12-18 14:14:48 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "9f002f2dcf822e86a71d6be5998cf8f6789e7ae6", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 14:14:48 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:14:48 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:14:48 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:14:48 | Push ejecutado con exito
+2023-12-18 14:14:48 | Iniciando git receive pack con el servidor
+2023-12-18 14:14:48 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:14:48 | Referencia actualizar: 0000000000000000000000000000000000000000 f57ae883f813228a4c46bf151217393a89f37f11 "refs/heads/master"
+2023-12-18 14:14:48 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "f57ae883f813228a4c46bf151217393a89f37f11", "refs/heads/master")
+2023-12-18 14:14:48 | Se envia en push los objetos: {"9f002f2dcf822e86a71d6be5998cf8f6789e7ae6", "e4df82e53180b1d1806bf25cadb072c7a264db68", "f57ae883f813228a4c46bf151217393a89f37f11", "33e89685c48a1f4386f447fa0a76b59efd78a558", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "95e4ec28265d26db1964738ceb6ae67fed47e87b"}
+2023-12-18 14:14:48 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:14:48 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:14:48 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:14:48 | Push ejecutado con exito
+2023-12-18 14:17:41 | Se intenta crear comando init con args:[]
+2023-12-18 14:17:41 | Se creo correctamente el comando init:[]
+2023-12-18 14:17:41 | Se ejecuta init
+2023-12-18 14:17:41 | Directorio gir creado en ./.gir
+2023-12-18 14:17:41 | Ejecutando add
+2023-12-18 14:17:41 | Buscando archivos ignorados
+2023-12-18 14:17:41 | Agregando archivo al index
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:41 | commit f3d050e6018e74269f08c19fce8b3701492a7fca
+ Author: 
+commit 
+2023-12-18 14:17:41 | Ejecutando add
+2023-12-18 14:17:41 | Buscando archivos ignorados
+2023-12-18 14:17:41 | Agregando archivo al index
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:41 | Objeto gir hasheado en archivo
+2023-12-18 14:17:42 | Objeto gir hasheado en archivo
+2023-12-18 14:17:42 | Objeto gir hasheado en archivo
+2023-12-18 14:17:42 | commit 6148ef068739345951655bf884d96b58c7c5dac7
+ Author: 
+commit 
+2023-12-18 14:17:42 | Ejecutando comando remote
+2023-12-18 14:17:42 | Se agrego el remote origin
+2023-12-18 14:17:42 | Iniciando git receive pack con el servidor
+2023-12-18 14:17:42 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:17:42 | Referencia actualizar: 0000000000000000000000000000000000000000 f3d050e6018e74269f08c19fce8b3701492a7fca "refs/heads/rama"
+2023-12-18 14:17:42 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "f3d050e6018e74269f08c19fce8b3701492a7fca", "refs/heads/rama")
+2023-12-18 14:17:42 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "f3d050e6018e74269f08c19fce8b3701492a7fca", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 14:17:42 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:17:42 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:17:42 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:17:42 | Push ejecutado con exito
+2023-12-18 14:17:42 | Iniciando git receive pack con el servidor
+2023-12-18 14:17:42 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:17:42 | Referencia actualizar: 0000000000000000000000000000000000000000 6148ef068739345951655bf884d96b58c7c5dac7 "refs/heads/master"
+2023-12-18 14:17:42 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "6148ef068739345951655bf884d96b58c7c5dac7", "refs/heads/master")
+2023-12-18 14:17:42 | Se envia en push los objetos: {"6148ef068739345951655bf884d96b58c7c5dac7", "e4df82e53180b1d1806bf25cadb072c7a264db68", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "f3d050e6018e74269f08c19fce8b3701492a7fca", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-18 14:17:42 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:17:42 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:17:42 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:17:42 | Push ejecutado con exito
+2023-12-18 14:45:56 | Se intenta crear comando init con args:[]
+2023-12-18 14:45:56 | Se creo correctamente el comando init:[]
+2023-12-18 14:45:56 | Se ejecuta init
+2023-12-18 14:45:56 | Directorio gir creado en ./.gir
+2023-12-18 14:45:56 | Ejecutando add
+2023-12-18 14:45:56 | Buscando archivos ignorados
+2023-12-18 14:45:56 | Agregando archivo al index
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:56 | commit a7487b63d9ab70ce8139056f298f14a39f87070e
+ Author: 
+commit 
+2023-12-18 14:45:56 | Ejecutando add
+2023-12-18 14:45:56 | Buscando archivos ignorados
+2023-12-18 14:45:56 | Agregando archivo al index
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:56 | Objeto gir hasheado en archivo
+2023-12-18 14:45:57 | Objeto gir hasheado en archivo
+2023-12-18 14:45:57 | Objeto gir hasheado en archivo
+2023-12-18 14:45:57 | commit 4867c145f4618267088f533c859010361b6abd2b
+ Author: 
+commit 
+2023-12-18 14:45:57 | Ejecutando comando remote
+2023-12-18 14:45:57 | Se agrego el remote origin
+2023-12-18 14:45:57 | Iniciando git receive pack con el servidor
+2023-12-18 14:45:57 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:45:57 | Referencia actualizar: 0000000000000000000000000000000000000000 a7487b63d9ab70ce8139056f298f14a39f87070e "refs/heads/rama"
+2023-12-18 14:45:57 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "a7487b63d9ab70ce8139056f298f14a39f87070e", "refs/heads/rama")
+2023-12-18 14:45:57 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "e4df82e53180b1d1806bf25cadb072c7a264db68", "a7487b63d9ab70ce8139056f298f14a39f87070e"}
+2023-12-18 14:45:57 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:45:57 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:45:57 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 14:45:57 | Push ejecutado con exito
+2023-12-18 14:45:57 | Iniciando git receive pack con el servidor
+2023-12-18 14:45:57 | Fase de descubrimiento ejecuta con exito
+2023-12-18 14:45:57 | Referencia actualizar: 0000000000000000000000000000000000000000 4867c145f4618267088f533c859010361b6abd2b "refs/heads/master"
+2023-12-18 14:45:57 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "4867c145f4618267088f533c859010361b6abd2b", "refs/heads/master")
+2023-12-18 14:45:57 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "a7487b63d9ab70ce8139056f298f14a39f87070e", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "33e89685c48a1f4386f447fa0a76b59efd78a558", "4867c145f4618267088f533c859010361b6abd2b", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 14:45:57 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:45:57 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:45:57 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 14:45:57 | Push ejecutado con exito
+2023-12-18 15:19:32 | Se intenta crear comando init con args:[]
+2023-12-18 15:19:32 | Se creo correctamente el comando init:[]
+2023-12-18 15:19:32 | Se ejecuta init
+2023-12-18 15:19:32 | Directorio gir creado en ./.gir
+2023-12-18 15:19:32 | Ejecutando add
+2023-12-18 15:19:32 | Buscando archivos ignorados
+2023-12-18 15:19:32 | Agregando archivo al index
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:32 | commit 66cc979d5cac433f83218e8d5426b2cef8369745
+ Author: 
+commit 
+2023-12-18 15:19:32 | Ejecutando add
+2023-12-18 15:19:32 | Buscando archivos ignorados
+2023-12-18 15:19:32 | Agregando archivo al index
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:32 | Objeto gir hasheado en archivo
+2023-12-18 15:19:33 | Objeto gir hasheado en archivo
+2023-12-18 15:19:33 | Objeto gir hasheado en archivo
+2023-12-18 15:19:33 | commit 63c9f1fdef001904ff0ad342aa3f01ff2cffafcd
+ Author: 
+commit 
+2023-12-18 15:19:33 | Ejecutando comando remote
+2023-12-18 15:19:33 | Se agrego el remote origin
+2023-12-18 15:19:33 | Iniciando git receive pack con el servidor
+2023-12-18 15:19:33 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:19:33 | Referencia actualizar: 0000000000000000000000000000000000000000 66cc979d5cac433f83218e8d5426b2cef8369745 "refs/heads/rama"
+2023-12-18 15:19:33 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "66cc979d5cac433f83218e8d5426b2cef8369745", "refs/heads/rama")
+2023-12-18 15:19:33 | Se envia en push los objetos: {"66cc979d5cac433f83218e8d5426b2cef8369745", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 15:19:33 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:19:33 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:19:33 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:19:33 | Push ejecutado con exito
+2023-12-18 15:19:33 | Iniciando git receive pack con el servidor
+2023-12-18 15:19:33 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:19:33 | Referencia actualizar: 0000000000000000000000000000000000000000 63c9f1fdef001904ff0ad342aa3f01ff2cffafcd "refs/heads/master"
+2023-12-18 15:19:33 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "63c9f1fdef001904ff0ad342aa3f01ff2cffafcd", "refs/heads/master")
+2023-12-18 15:19:33 | Se envia en push los objetos: {"95e4ec28265d26db1964738ceb6ae67fed47e87b", "e4df82e53180b1d1806bf25cadb072c7a264db68", "63c9f1fdef001904ff0ad342aa3f01ff2cffafcd", "66cc979d5cac433f83218e8d5426b2cef8369745", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-18 15:19:33 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:19:33 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:19:33 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:19:33 | Push ejecutado con exito
+2023-12-18 15:24:05 | Se intenta crear comando init con args:[]
+2023-12-18 15:24:05 | Se creo correctamente el comando init:[]
+2023-12-18 15:24:05 | Se ejecuta init
+2023-12-18 15:24:05 | Directorio gir creado en ./.gir
+2023-12-18 15:24:05 | Ejecutando add
+2023-12-18 15:24:05 | Buscando archivos ignorados
+2023-12-18 15:24:05 | Agregando archivo al index
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:05 | commit 385e893ef698c193fb890c7359c3a056cc8b2cfe
+ Author: 
+commit 
+2023-12-18 15:24:05 | Ejecutando add
+2023-12-18 15:24:05 | Buscando archivos ignorados
+2023-12-18 15:24:05 | Agregando archivo al index
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:05 | Objeto gir hasheado en archivo
+2023-12-18 15:24:06 | Objeto gir hasheado en archivo
+2023-12-18 15:24:06 | Objeto gir hasheado en archivo
+2023-12-18 15:24:06 | commit da03f9b0b69e0cc08fa07a3d985a0caa7d9088f2
+ Author: 
+commit 
+2023-12-18 15:24:06 | Ejecutando comando remote
+2023-12-18 15:24:06 | Se agrego el remote origin
+2023-12-18 15:24:06 | Iniciando git receive pack con el servidor
+2023-12-18 15:24:06 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:24:06 | Referencia actualizar: 0000000000000000000000000000000000000000 385e893ef698c193fb890c7359c3a056cc8b2cfe "refs/heads/rama"
+2023-12-18 15:24:06 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "385e893ef698c193fb890c7359c3a056cc8b2cfe", "refs/heads/rama")
+2023-12-18 15:24:06 | Se envia en push los objetos: {"385e893ef698c193fb890c7359c3a056cc8b2cfe", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 15:24:06 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:24:06 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:24:06 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:24:06 | Push ejecutado con exito
+2023-12-18 15:24:06 | Iniciando git receive pack con el servidor
+2023-12-18 15:24:06 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:24:06 | Referencia actualizar: 0000000000000000000000000000000000000000 da03f9b0b69e0cc08fa07a3d985a0caa7d9088f2 "refs/heads/master"
+2023-12-18 15:24:06 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "da03f9b0b69e0cc08fa07a3d985a0caa7d9088f2", "refs/heads/master")
+2023-12-18 15:24:06 | Se envia en push los objetos: {"385e893ef698c193fb890c7359c3a056cc8b2cfe", "33e89685c48a1f4386f447fa0a76b59efd78a558", "e4df82e53180b1d1806bf25cadb072c7a264db68", "da03f9b0b69e0cc08fa07a3d985a0caa7d9088f2", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 15:24:06 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:24:06 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:24:06 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:24:06 | Push ejecutado con exito
+2023-12-18 15:26:10 | Se intenta crear comando init con args:[]
+2023-12-18 15:26:10 | Se creo correctamente el comando init:[]
+2023-12-18 15:26:10 | Se ejecuta init
+2023-12-18 15:26:10 | Directorio gir creado en ./.gir
+2023-12-18 15:26:10 | Ejecutando add
+2023-12-18 15:26:10 | Buscando archivos ignorados
+2023-12-18 15:26:10 | Agregando archivo al index
+2023-12-18 15:26:10 | Objeto gir hasheado en archivo
+2023-12-18 15:26:10 | Objeto gir hasheado en archivo
+2023-12-18 15:26:10 | Objeto gir hasheado en archivo
+2023-12-18 15:26:11 | Objeto gir hasheado en archivo
+2023-12-18 15:26:11 | commit 75fee286386b83c8fb1dab8989b551b638b00998
+ Author: 
+commit 
+2023-12-18 15:26:11 | Ejecutando add
+2023-12-18 15:26:11 | Buscando archivos ignorados
+2023-12-18 15:26:11 | Agregando archivo al index
+2023-12-18 15:26:11 | Objeto gir hasheado en archivo
+2023-12-18 15:26:11 | Objeto gir hasheado en archivo
+2023-12-18 15:26:12 | Objeto gir hasheado en archivo
+2023-12-18 15:26:12 | Objeto gir hasheado en archivo
+2023-12-18 15:26:12 | commit f3a57e40767e0d687484daab27623bff300fec11
+ Author: 
+commit 
+2023-12-18 15:26:12 | Ejecutando comando remote
+2023-12-18 15:26:12 | Se agrego el remote origin
+2023-12-18 15:26:12 | Iniciando git receive pack con el servidor
+2023-12-18 15:26:12 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:26:12 | Referencia actualizar: 0000000000000000000000000000000000000000 75fee286386b83c8fb1dab8989b551b638b00998 "refs/heads/rama"
+2023-12-18 15:26:12 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "75fee286386b83c8fb1dab8989b551b638b00998", "refs/heads/rama")
+2023-12-18 15:26:12 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "75fee286386b83c8fb1dab8989b551b638b00998", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-18 15:26:12 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:26:12 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:26:12 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-18 15:26:12 | Push ejecutado con exito
+2023-12-18 15:26:12 | Iniciando git receive pack con el servidor
+2023-12-18 15:26:12 | Fase de descubrimiento ejecuta con exito
+2023-12-18 15:26:12 | Referencia actualizar: 0000000000000000000000000000000000000000 f3a57e40767e0d687484daab27623bff300fec11 "refs/heads/master"
+2023-12-18 15:26:12 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "f3a57e40767e0d687484daab27623bff300fec11", "refs/heads/master")
+2023-12-18 15:26:12 | Se envia en push los objetos: {"95e4ec28265d26db1964738ceb6ae67fed47e87b", "33e89685c48a1f4386f447fa0a76b59efd78a558", "75fee286386b83c8fb1dab8989b551b638b00998", "f3a57e40767e0d687484daab27623bff300fec11", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-18 15:26:12 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:26:12 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:26:12 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-18 15:26:12 | Push ejecutado con exito
+2023-12-19 12:05:00 | Se intenta crear comando init con args:[]
+2023-12-19 12:05:00 | Se creo correctamente el comando init:[]
+2023-12-19 12:05:00 | Se ejecuta init
+2023-12-19 12:05:00 | Directorio gir creado en ./.gir
+2023-12-19 12:05:00 | Ejecutando add
+2023-12-19 12:05:00 | Buscando archivos ignorados
+2023-12-19 12:05:00 | Agregando archivo al index
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:00 | commit a6a92fa3d8c8357203dfd9e82898614970fdb0c0
+ Author: 
+commit 
+2023-12-19 12:05:00 | Ejecutando add
+2023-12-19 12:05:00 | Buscando archivos ignorados
+2023-12-19 12:05:00 | Agregando archivo al index
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:00 | Objeto gir hasheado en archivo
+2023-12-19 12:05:01 | Objeto gir hasheado en archivo
+2023-12-19 12:05:01 | Objeto gir hasheado en archivo
+2023-12-19 12:05:01 | commit f4ba71708de46a1b7d9f99694a3c38300cecf026
+ Author: 
+commit 
+2023-12-19 12:05:01 | Ejecutando comando remote
+2023-12-19 12:05:01 | Se agrego el remote origin
+2023-12-19 12:05:01 | Iniciando git receive pack con el servidor
+2023-12-19 12:05:01 | Fase de descubrimiento ejecuta con exito
+2023-12-19 12:05:01 | Referencia actualizar: 0000000000000000000000000000000000000000 a6a92fa3d8c8357203dfd9e82898614970fdb0c0 "refs/heads/rama"
+2023-12-19 12:05:01 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "a6a92fa3d8c8357203dfd9e82898614970fdb0c0", "refs/heads/rama")
+2023-12-19 12:05:01 | Se envia en push los objetos: {"a6a92fa3d8c8357203dfd9e82898614970fdb0c0", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-19 12:05:01 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 12:05:01 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 12:05:01 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 12:05:01 | Push ejecutado con exito
+2023-12-19 12:05:01 | Iniciando git receive pack con el servidor
+2023-12-19 12:05:01 | Fase de descubrimiento ejecuta con exito
+2023-12-19 12:05:01 | Referencia actualizar: 0000000000000000000000000000000000000000 f4ba71708de46a1b7d9f99694a3c38300cecf026 "refs/heads/master"
+2023-12-19 12:05:01 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "f4ba71708de46a1b7d9f99694a3c38300cecf026", "refs/heads/master")
+2023-12-19 12:05:01 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "a6a92fa3d8c8357203dfd9e82898614970fdb0c0", "33e89685c48a1f4386f447fa0a76b59efd78a558", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "f4ba71708de46a1b7d9f99694a3c38300cecf026"}
+2023-12-19 12:05:01 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 12:05:01 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 12:05:01 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 12:05:01 | Push ejecutado con exito
+2023-12-19 13:37:15 | Se intenta crear comando init con args:[]
+2023-12-19 13:37:15 | Se creo correctamente el comando init:[]
+2023-12-19 13:37:15 | Se ejecuta init
+2023-12-19 13:37:15 | Directorio gir creado en ./.gir
+2023-12-19 13:37:15 | Ejecutando add
+2023-12-19 13:37:15 | Buscando archivos ignorados
+2023-12-19 13:37:15 | Agregando archivo al index
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:15 | commit 7208a6d45e63b4709eb25536726fa66a54fa848e
+ Author: 
+commit 
+2023-12-19 13:37:15 | Ejecutando add
+2023-12-19 13:37:15 | Buscando archivos ignorados
+2023-12-19 13:37:15 | Agregando archivo al index
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:15 | Objeto gir hasheado en archivo
+2023-12-19 13:37:16 | Objeto gir hasheado en archivo
+2023-12-19 13:37:16 | Objeto gir hasheado en archivo
+2023-12-19 13:37:16 | commit 2be0de5faa3f84928a253a8a57184493dea7c227
+ Author: 
+commit 
+2023-12-19 13:37:16 | Ejecutando comando remote
+2023-12-19 13:37:16 | Se agrego el remote origin
+2023-12-19 13:37:16 | Iniciando git receive pack con el servidor
+2023-12-19 13:37:16 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:37:16 | Referencia actualizar: 0000000000000000000000000000000000000000 7208a6d45e63b4709eb25536726fa66a54fa848e "refs/heads/rama"
+2023-12-19 13:37:16 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "7208a6d45e63b4709eb25536726fa66a54fa848e", "refs/heads/rama")
+2023-12-19 13:37:16 | Se envia en push los objetos: {"7208a6d45e63b4709eb25536726fa66a54fa848e", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-19 13:37:16 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:37:16 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:37:16 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:37:16 | Push ejecutado con exito
+2023-12-19 13:37:16 | Iniciando git receive pack con el servidor
+2023-12-19 13:37:16 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:37:16 | Referencia actualizar: 0000000000000000000000000000000000000000 2be0de5faa3f84928a253a8a57184493dea7c227 "refs/heads/master"
+2023-12-19 13:37:16 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "2be0de5faa3f84928a253a8a57184493dea7c227", "refs/heads/master")
+2023-12-19 13:37:16 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "33e89685c48a1f4386f447fa0a76b59efd78a558", "7208a6d45e63b4709eb25536726fa66a54fa848e", "e4df82e53180b1d1806bf25cadb072c7a264db68", "2be0de5faa3f84928a253a8a57184493dea7c227"}
+2023-12-19 13:37:16 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:37:16 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:37:16 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:37:16 | Push ejecutado con exito
+2023-12-19 13:46:52 | Se intenta crear comando init con args:[]
+2023-12-19 13:46:52 | Se creo correctamente el comando init:[]
+2023-12-19 13:46:52 | Se ejecuta init
+2023-12-19 13:46:52 | Directorio gir creado en ./.gir
+2023-12-19 13:46:52 | Ejecutando add
+2023-12-19 13:46:52 | Buscando archivos ignorados
+2023-12-19 13:46:52 | Agregando archivo al index
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:52 | commit 73e5211996d97bafedea8be4d8a84522a875849e
+ Author: 
+commit 
+2023-12-19 13:46:52 | Ejecutando add
+2023-12-19 13:46:52 | Buscando archivos ignorados
+2023-12-19 13:46:52 | Agregando archivo al index
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:52 | Objeto gir hasheado en archivo
+2023-12-19 13:46:53 | Objeto gir hasheado en archivo
+2023-12-19 13:46:53 | Objeto gir hasheado en archivo
+2023-12-19 13:46:53 | commit 4807095639ba004e8d522ed223dbbaec5061a8cc
+ Author: 
+commit 
+2023-12-19 13:46:53 | Ejecutando comando remote
+2023-12-19 13:46:53 | Se agrego el remote origin
+2023-12-19 13:46:53 | Iniciando git receive pack con el servidor
+2023-12-19 13:46:53 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:46:53 | Referencia actualizar: 0000000000000000000000000000000000000000 73e5211996d97bafedea8be4d8a84522a875849e "refs/heads/rama"
+2023-12-19 13:46:53 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "73e5211996d97bafedea8be4d8a84522a875849e", "refs/heads/rama")
+2023-12-19 13:46:53 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "73e5211996d97bafedea8be4d8a84522a875849e", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-19 13:46:53 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:46:53 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:46:53 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:46:53 | Push ejecutado con exito
+2023-12-19 13:46:53 | Iniciando git receive pack con el servidor
+2023-12-19 13:46:53 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:46:53 | Referencia actualizar: 0000000000000000000000000000000000000000 4807095639ba004e8d522ed223dbbaec5061a8cc "refs/heads/master"
+2023-12-19 13:46:53 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "4807095639ba004e8d522ed223dbbaec5061a8cc", "refs/heads/master")
+2023-12-19 13:46:53 | Se envia en push los objetos: {"95e4ec28265d26db1964738ceb6ae67fed47e87b", "73e5211996d97bafedea8be4d8a84522a875849e", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "4807095639ba004e8d522ed223dbbaec5061a8cc", "e4df82e53180b1d1806bf25cadb072c7a264db68", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-19 13:46:53 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:46:53 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:46:53 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:46:53 | Push ejecutado con exito
+2023-12-19 13:52:02 | Se intenta crear comando init con args:[]
+2023-12-19 13:52:02 | Se creo correctamente el comando init:[]
+2023-12-19 13:52:02 | Se ejecuta init
+2023-12-19 13:52:02 | Directorio gir creado en ./.gir
+2023-12-19 13:52:02 | Ejecutando add
+2023-12-19 13:52:02 | Buscando archivos ignorados
+2023-12-19 13:52:02 | Agregando archivo al index
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:02 | commit b492e75ae08fcd5b37cb0264e10b54c4b7818c01
+ Author: 
+commit 
+2023-12-19 13:52:02 | Ejecutando add
+2023-12-19 13:52:02 | Buscando archivos ignorados
+2023-12-19 13:52:02 | Agregando archivo al index
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:02 | Objeto gir hasheado en archivo
+2023-12-19 13:52:03 | Objeto gir hasheado en archivo
+2023-12-19 13:52:03 | Objeto gir hasheado en archivo
+2023-12-19 13:52:03 | commit e135ee1e08e33427d06ebfc263e5b6066f984840
+ Author: 
+commit 
+2023-12-19 13:52:03 | Ejecutando comando remote
+2023-12-19 13:52:03 | Se agrego el remote origin
+2023-12-19 13:52:03 | Iniciando git receive pack con el servidor
+2023-12-19 13:52:03 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:52:03 | Referencia actualizar: 0000000000000000000000000000000000000000 b492e75ae08fcd5b37cb0264e10b54c4b7818c01 "refs/heads/rama"
+2023-12-19 13:52:03 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "b492e75ae08fcd5b37cb0264e10b54c4b7818c01", "refs/heads/rama")
+2023-12-19 13:52:03 | Se envia en push los objetos: {"b492e75ae08fcd5b37cb0264e10b54c4b7818c01", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-19 13:52:03 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:52:03 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:52:03 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:52:03 | Push ejecutado con exito
+2023-12-19 13:52:03 | Iniciando git receive pack con el servidor
+2023-12-19 13:52:03 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:52:03 | Referencia actualizar: 0000000000000000000000000000000000000000 e135ee1e08e33427d06ebfc263e5b6066f984840 "refs/heads/master"
+2023-12-19 13:52:03 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "e135ee1e08e33427d06ebfc263e5b6066f984840", "refs/heads/master")
+2023-12-19 13:52:03 | Se envia en push los objetos: {"b492e75ae08fcd5b37cb0264e10b54c4b7818c01", "e4df82e53180b1d1806bf25cadb072c7a264db68", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e135ee1e08e33427d06ebfc263e5b6066f984840", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-19 13:52:03 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:52:03 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:52:03 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:52:03 | Push ejecutado con exito
+2023-12-19 13:57:27 | Se intenta crear comando init con args:[]
+2023-12-19 13:57:27 | Se creo correctamente el comando init:[]
+2023-12-19 13:57:27 | Se ejecuta init
+2023-12-19 13:57:27 | Directorio gir creado en ./.gir
+2023-12-19 13:57:27 | Ejecutando add
+2023-12-19 13:57:27 | Buscando archivos ignorados
+2023-12-19 13:57:27 | Agregando archivo al index
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:27 | commit 73336a88ab5a46ae91b00ed6e55b901a550baa18
+ Author: 
+commit 
+2023-12-19 13:57:27 | Ejecutando add
+2023-12-19 13:57:27 | Buscando archivos ignorados
+2023-12-19 13:57:27 | Agregando archivo al index
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:27 | Objeto gir hasheado en archivo
+2023-12-19 13:57:28 | Objeto gir hasheado en archivo
+2023-12-19 13:57:28 | Objeto gir hasheado en archivo
+2023-12-19 13:57:28 | commit 353346bad30c23a9db931ab387a65300e99c8708
+ Author: 
+commit 
+2023-12-19 13:57:28 | Ejecutando comando remote
+2023-12-19 13:57:28 | Se agrego el remote origin
+2023-12-19 13:57:28 | Iniciando git receive pack con el servidor
+2023-12-19 13:57:28 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:57:28 | Referencia actualizar: 0000000000000000000000000000000000000000 73336a88ab5a46ae91b00ed6e55b901a550baa18 "refs/heads/rama"
+2023-12-19 13:57:28 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "73336a88ab5a46ae91b00ed6e55b901a550baa18", "refs/heads/rama")
+2023-12-19 13:57:28 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "73336a88ab5a46ae91b00ed6e55b901a550baa18", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-19 13:57:28 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:57:28 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:57:28 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:57:28 | Push ejecutado con exito
+2023-12-19 13:57:28 | Iniciando git receive pack con el servidor
+2023-12-19 13:57:28 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:57:28 | Referencia actualizar: 0000000000000000000000000000000000000000 353346bad30c23a9db931ab387a65300e99c8708 "refs/heads/master"
+2023-12-19 13:57:28 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "353346bad30c23a9db931ab387a65300e99c8708", "refs/heads/master")
+2023-12-19 13:57:28 | Se envia en push los objetos: {"353346bad30c23a9db931ab387a65300e99c8708", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "73336a88ab5a46ae91b00ed6e55b901a550baa18", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-19 13:57:28 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:57:28 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:57:28 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:57:28 | Push ejecutado con exito
+2023-12-19 13:59:18 | Se intenta crear comando init con args:[]
+2023-12-19 13:59:18 | Se creo correctamente el comando init:[]
+2023-12-19 13:59:18 | Se ejecuta init
+2023-12-19 13:59:18 | Directorio gir creado en ./.gir
+2023-12-19 13:59:18 | Ejecutando add
+2023-12-19 13:59:18 | Buscando archivos ignorados
+2023-12-19 13:59:18 | Agregando archivo al index
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:18 | commit 918b8fa8d172d6098b74d69cb63aa45d3f16f28c
+ Author: 
+commit 
+2023-12-19 13:59:18 | Ejecutando add
+2023-12-19 13:59:18 | Buscando archivos ignorados
+2023-12-19 13:59:18 | Agregando archivo al index
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:18 | Objeto gir hasheado en archivo
+2023-12-19 13:59:19 | Objeto gir hasheado en archivo
+2023-12-19 13:59:19 | Objeto gir hasheado en archivo
+2023-12-19 13:59:19 | commit 533905aa4e72d0c2928cd4619bc486f13aca08bd
+ Author: 
+commit 
+2023-12-19 13:59:19 | Ejecutando comando remote
+2023-12-19 13:59:19 | Se agrego el remote origin
+2023-12-19 13:59:19 | Iniciando git receive pack con el servidor
+2023-12-19 13:59:19 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:59:19 | Referencia actualizar: 0000000000000000000000000000000000000000 918b8fa8d172d6098b74d69cb63aa45d3f16f28c "refs/heads/rama"
+2023-12-19 13:59:19 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "918b8fa8d172d6098b74d69cb63aa45d3f16f28c", "refs/heads/rama")
+2023-12-19 13:59:19 | Se envia en push los objetos: {"d2207d7532b976e05bada36e723b79f26cd7f2cd", "918b8fa8d172d6098b74d69cb63aa45d3f16f28c", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-19 13:59:19 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:59:19 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:59:19 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 13:59:19 | Push ejecutado con exito
+2023-12-19 13:59:19 | Iniciando git receive pack con el servidor
+2023-12-19 13:59:19 | Fase de descubrimiento ejecuta con exito
+2023-12-19 13:59:19 | Referencia actualizar: 0000000000000000000000000000000000000000 533905aa4e72d0c2928cd4619bc486f13aca08bd "refs/heads/master"
+2023-12-19 13:59:19 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "533905aa4e72d0c2928cd4619bc486f13aca08bd", "refs/heads/master")
+2023-12-19 13:59:19 | Se envia en push los objetos: {"533905aa4e72d0c2928cd4619bc486f13aca08bd", "918b8fa8d172d6098b74d69cb63aa45d3f16f28c", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "e4df82e53180b1d1806bf25cadb072c7a264db68", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-19 13:59:19 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:59:19 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:59:19 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 13:59:19 | Push ejecutado con exito
+2023-12-19 14:03:09 | Se intenta crear comando init con args:[]
+2023-12-19 14:03:09 | Se creo correctamente el comando init:[]
+2023-12-19 14:03:09 | Se ejecuta init
+2023-12-19 14:03:09 | Directorio gir creado en ./.gir
+2023-12-19 14:03:09 | Ejecutando add
+2023-12-19 14:03:09 | Buscando archivos ignorados
+2023-12-19 14:03:09 | Agregando archivo al index
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:09 | commit f18d79b380fee5dc7907cc3f90fa04287094b871
+ Author: 
+commit 
+2023-12-19 14:03:09 | Ejecutando add
+2023-12-19 14:03:09 | Buscando archivos ignorados
+2023-12-19 14:03:09 | Agregando archivo al index
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:09 | Objeto gir hasheado en archivo
+2023-12-19 14:03:10 | Objeto gir hasheado en archivo
+2023-12-19 14:03:10 | Objeto gir hasheado en archivo
+2023-12-19 14:03:10 | commit 524557da33cabe29d1175024ba25834e77b6b10d
+ Author: 
+commit 
+2023-12-19 14:03:10 | Ejecutando comando remote
+2023-12-19 14:03:10 | Se agrego el remote origin
+2023-12-19 14:03:10 | Iniciando git receive pack con el servidor
+2023-12-19 14:03:10 | Fase de descubrimiento ejecuta con exito
+2023-12-19 14:03:10 | Referencia actualizar: 0000000000000000000000000000000000000000 f18d79b380fee5dc7907cc3f90fa04287094b871 "refs/heads/rama"
+2023-12-19 14:03:10 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "f18d79b380fee5dc7907cc3f90fa04287094b871", "refs/heads/rama")
+2023-12-19 14:03:10 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "f18d79b380fee5dc7907cc3f90fa04287094b871", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-19 14:03:10 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:03:10 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:03:10 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:03:10 | Push ejecutado con exito
+2023-12-19 14:03:10 | Iniciando git receive pack con el servidor
+2023-12-19 14:03:10 | Fase de descubrimiento ejecuta con exito
+2023-12-19 14:03:10 | Referencia actualizar: 0000000000000000000000000000000000000000 524557da33cabe29d1175024ba25834e77b6b10d "refs/heads/master"
+2023-12-19 14:03:10 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "524557da33cabe29d1175024ba25834e77b6b10d", "refs/heads/master")
+2023-12-19 14:03:10 | Se envia en push los objetos: {"33e89685c48a1f4386f447fa0a76b59efd78a558", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "f18d79b380fee5dc7907cc3f90fa04287094b871", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "524557da33cabe29d1175024ba25834e77b6b10d", "e4df82e53180b1d1806bf25cadb072c7a264db68"}
+2023-12-19 14:03:10 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:03:10 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:03:10 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:03:10 | Push ejecutado con exito
+2023-12-19 14:04:55 | Se intenta crear comando init con args:[]
+2023-12-19 14:04:55 | Se creo correctamente el comando init:[]
+2023-12-19 14:04:55 | Se ejecuta init
+2023-12-19 14:04:55 | Directorio gir creado en ./.gir
+2023-12-19 14:04:55 | Ejecutando add
+2023-12-19 14:04:55 | Buscando archivos ignorados
+2023-12-19 14:04:55 | Agregando archivo al index
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:55 | commit b8ad304036b0efd683da0dcadf728b4a47db9fb2
+ Author: 
+commit 
+2023-12-19 14:04:55 | Ejecutando add
+2023-12-19 14:04:55 | Buscando archivos ignorados
+2023-12-19 14:04:55 | Agregando archivo al index
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:55 | Objeto gir hasheado en archivo
+2023-12-19 14:04:56 | Objeto gir hasheado en archivo
+2023-12-19 14:04:56 | Objeto gir hasheado en archivo
+2023-12-19 14:04:56 | commit 5735b565bd961cb569e7b70ad9618d90917ed4d7
+ Author: 
+commit 
+2023-12-19 14:04:56 | Ejecutando comando remote
+2023-12-19 14:04:56 | Se agrego el remote origin
+2023-12-19 14:04:56 | Iniciando git receive pack con el servidor
+2023-12-19 14:04:56 | Fase de descubrimiento ejecuta con exito
+2023-12-19 14:04:56 | Referencia actualizar: 0000000000000000000000000000000000000000 b8ad304036b0efd683da0dcadf728b4a47db9fb2 "refs/heads/rama"
+2023-12-19 14:04:56 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "b8ad304036b0efd683da0dcadf728b4a47db9fb2", "refs/heads/rama")
+2023-12-19 14:04:56 | Se envia en push los objetos: {"e4df82e53180b1d1806bf25cadb072c7a264db68", "b8ad304036b0efd683da0dcadf728b4a47db9fb2", "d2207d7532b976e05bada36e723b79f26cd7f2cd"}
+2023-12-19 14:04:56 | Se crea set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:04:56 | Se ejecuta set-upstream - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:04:56 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: rama,rama local: rama
+2023-12-19 14:04:56 | Push ejecutado con exito
+2023-12-19 14:04:56 | Iniciando git receive pack con el servidor
+2023-12-19 14:04:56 | Fase de descubrimiento ejecuta con exito
+2023-12-19 14:04:56 | Referencia actualizar: 0000000000000000000000000000000000000000 5735b565bd961cb569e7b70ad9618d90917ed4d7 "refs/heads/master"
+2023-12-19 14:04:56 | Se envia en push la referencia: ("0000000000000000000000000000000000000000", "5735b565bd961cb569e7b70ad9618d90917ed4d7", "refs/heads/master")
+2023-12-19 14:04:56 | Se envia en push los objetos: {"5735b565bd961cb569e7b70ad9618d90917ed4d7", "95e4ec28265d26db1964738ceb6ae67fed47e87b", "e4df82e53180b1d1806bf25cadb072c7a264db68", "d2207d7532b976e05bada36e723b79f26cd7f2cd", "b8ad304036b0efd683da0dcadf728b4a47db9fb2", "33e89685c48a1f4386f447fa0a76b59efd78a558"}
+2023-12-19 14:04:56 | Se crea set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:04:56 | Se ejecuta set-upstream - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:04:56 | Se ejecuto set-upstream con exito - remoto: origin, rama remota: master,rama local: master
+2023-12-19 14:04:56 | Push ejecutado con exito

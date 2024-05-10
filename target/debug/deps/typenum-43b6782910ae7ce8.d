@@ -1,0 +1,17 @@
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/deps/typenum-43b6782910ae7ce8.rmeta: /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/op.rs /home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/consts.rs
+
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/deps/typenum-43b6782910ae7ce8.d: /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/op.rs /home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/consts.rs
+
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs:
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/op.rs:
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out/consts.rs:
+
+# env-dep:OUT_DIR=/home/juani/23C2-Cangrejos-Tacticos/target/debug/build/typenum-af52c9008f3de006/out

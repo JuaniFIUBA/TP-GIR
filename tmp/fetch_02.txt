@@ -1,0 +1,649 @@
+2023-12-16 15:55:30 | Iniciando receive pack
+2023-12-16 15:55:30 | Receive pack ejecutado con exito
+2023-12-16 15:55:30 | Iniciando upload pack
+2023-12-16 15:55:31 | Upload pack ejecutado con exito
+2023-12-16 15:55:31 | Iniciando upload pack
+2023-12-16 15:55:31 | Upload pack ejecutado con exito
+2023-12-16 15:55:31 | Iniciando upload pack
+2023-12-16 15:55:31 | Se ejecuta init
+2023-12-16 15:55:31 | Directorio gir creado en ./.gir
+2023-12-16 15:55:31 | Ejecutando comando remote
+2023-12-16 15:55:31 | Se agrego el remote origin
+2023-12-16 15:55:31 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:27:27 | Iniciando receive pack
+2023-12-17 11:27:27 | Receive pack ejecutado con exito
+2023-12-17 11:27:27 | Iniciando upload pack
+2023-12-17 11:27:27 | Upload pack ejecutado con exito
+2023-12-17 11:27:27 | Iniciando upload pack
+2023-12-17 11:27:27 | Upload pack ejecutado con exito
+2023-12-17 11:27:27 | Iniciando upload pack
+2023-12-17 11:27:27 | Se ejecuta init
+2023-12-17 11:27:27 | Directorio gir creado en ./.gir
+2023-12-17 11:27:27 | Ejecutando comando remote
+2023-12-17 11:27:27 | Se agrego el remote origin
+2023-12-17 11:27:27 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:28:04 | Iniciando receive pack
+2023-12-17 11:28:04 | Receive pack ejecutado con exito
+2023-12-17 11:28:04 | Iniciando upload pack
+2023-12-17 11:28:04 | Upload pack ejecutado con exito
+2023-12-17 11:28:04 | Iniciando upload pack
+2023-12-17 11:28:04 | Upload pack ejecutado con exito
+2023-12-17 11:28:04 | Iniciando upload pack
+2023-12-17 11:28:04 | Se ejecuta init
+2023-12-17 11:28:04 | Directorio gir creado en ./.gir
+2023-12-17 11:28:04 | Ejecutando comando remote
+2023-12-17 11:28:04 | Se agrego el remote origin
+2023-12-17 11:28:04 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:28:57 | Iniciando receive pack
+2023-12-17 11:28:57 | Receive pack ejecutado con exito
+2023-12-17 11:28:57 | Iniciando upload pack
+2023-12-17 11:28:57 | Upload pack ejecutado con exito
+2023-12-17 11:28:57 | Iniciando upload pack
+2023-12-17 11:28:57 | Upload pack ejecutado con exito
+2023-12-17 11:28:57 | Iniciando upload pack
+2023-12-17 11:28:58 | Se ejecuta init
+2023-12-17 11:28:58 | Directorio gir creado en ./.gir
+2023-12-17 11:28:58 | Ejecutando comando remote
+2023-12-17 11:28:58 | Se agrego el remote origin
+2023-12-17 11:28:58 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:29:45 | Iniciando receive pack
+2023-12-17 11:29:45 | Receive pack ejecutado con exito
+2023-12-17 11:29:45 | Iniciando upload pack
+2023-12-17 11:29:45 | Upload pack ejecutado con exito
+2023-12-17 11:29:45 | Iniciando upload pack
+2023-12-17 11:29:45 | Upload pack ejecutado con exito
+2023-12-17 11:29:45 | Iniciando upload pack
+2023-12-17 11:29:45 | Se ejecuta init
+2023-12-17 11:29:45 | Directorio gir creado en ./.gir
+2023-12-17 11:29:45 | Ejecutando comando remote
+2023-12-17 11:29:45 | Se agrego el remote origin
+2023-12-17 11:29:45 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:31:35 | Iniciando receive pack
+2023-12-17 11:31:35 | Receive pack ejecutado con exito
+2023-12-17 11:31:35 | Iniciando upload pack
+2023-12-17 11:31:35 | Upload pack ejecutado con exito
+2023-12-17 11:31:35 | Iniciando upload pack
+2023-12-17 11:31:35 | Upload pack ejecutado con exito
+2023-12-17 11:31:35 | Iniciando upload pack
+2023-12-17 11:31:35 | Se ejecuta init
+2023-12-17 11:31:35 | Directorio gir creado en ./.gir
+2023-12-17 11:31:35 | Ejecutando comando remote
+2023-12-17 11:31:35 | Se agrego el remote origin
+2023-12-17 11:31:35 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:34:16 | Iniciando receive pack
+2023-12-17 11:34:16 | Receive pack ejecutado con exito
+2023-12-17 11:34:16 | Iniciando upload pack
+2023-12-17 11:34:16 | Upload pack ejecutado con exito
+2023-12-17 11:34:16 | Iniciando upload pack
+2023-12-17 11:34:16 | Upload pack ejecutado con exito
+2023-12-17 11:34:16 | Iniciando upload pack
+2023-12-17 11:34:16 | Se ejecuta init
+2023-12-17 11:34:16 | Directorio gir creado en ./.gir
+2023-12-17 11:34:16 | Ejecutando comando remote
+2023-12-17 11:34:16 | Se agrego el remote origin
+2023-12-17 11:34:16 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:35:27 | Iniciando receive pack
+2023-12-17 11:35:27 | Receive pack ejecutado con exito
+2023-12-17 11:35:27 | Iniciando upload pack
+2023-12-17 11:35:27 | Upload pack ejecutado con exito
+2023-12-17 11:35:27 | Iniciando upload pack
+2023-12-17 11:35:27 | Upload pack ejecutado con exito
+2023-12-17 11:35:27 | Iniciando upload pack
+2023-12-17 11:35:27 | Se ejecuta init
+2023-12-17 11:35:27 | Directorio gir creado en ./.gir
+2023-12-17 11:35:27 | Ejecutando comando remote
+2023-12-17 11:35:27 | Se agrego el remote origin
+2023-12-17 11:35:27 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:38:38 | Iniciando receive pack
+2023-12-17 11:38:38 | Receive pack ejecutado con exito
+2023-12-17 11:38:38 | Iniciando upload pack
+2023-12-17 11:38:38 | Upload pack ejecutado con exito
+2023-12-17 11:38:38 | Iniciando upload pack
+2023-12-17 11:38:38 | Upload pack ejecutado con exito
+2023-12-17 11:38:38 | Iniciando upload pack
+2023-12-17 11:38:38 | Se ejecuta init
+2023-12-17 11:38:38 | Directorio gir creado en ./.gir
+2023-12-17 11:38:38 | Ejecutando comando remote
+2023-12-17 11:38:38 | Se agrego el remote origin
+2023-12-17 11:38:38 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:49:12 | Iniciando receive pack
+2023-12-17 11:49:12 | Receive pack ejecutado con exito
+2023-12-17 11:49:12 | Iniciando upload pack
+2023-12-17 11:49:12 | Upload pack ejecutado con exito
+2023-12-17 11:49:12 | Iniciando upload pack
+2023-12-17 11:49:12 | Upload pack ejecutado con exito
+2023-12-17 11:49:12 | Iniciando upload pack
+2023-12-17 11:49:12 | Se ejecuta init
+2023-12-17 11:49:12 | Directorio gir creado en ./.gir
+2023-12-17 11:49:12 | Ejecutando comando remote
+2023-12-17 11:49:12 | Se agrego el remote origin
+2023-12-17 11:49:12 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:51:37 | Iniciando receive pack
+2023-12-17 11:51:37 | Receive pack ejecutado con exito
+2023-12-17 11:51:37 | Iniciando upload pack
+2023-12-17 11:51:37 | Upload pack ejecutado con exito
+2023-12-17 11:51:37 | Iniciando upload pack
+2023-12-17 11:51:37 | Upload pack ejecutado con exito
+2023-12-17 11:51:37 | Iniciando upload pack
+2023-12-17 11:51:37 | Se ejecuta init
+2023-12-17 11:51:37 | Directorio gir creado en ./.gir
+2023-12-17 11:51:37 | Ejecutando comando remote
+2023-12-17 11:51:37 | Se agrego el remote origin
+2023-12-17 11:51:37 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 11:56:12 | Iniciando receive pack
+2023-12-17 11:56:12 | Receive pack ejecutado con exito
+2023-12-17 11:56:12 | Iniciando upload pack
+2023-12-17 11:56:12 | Upload pack ejecutado con exito
+2023-12-17 11:56:12 | Iniciando upload pack
+2023-12-17 11:56:12 | Upload pack ejecutado con exito
+2023-12-17 11:56:12 | Iniciando upload pack
+2023-12-17 11:56:12 | Se ejecuta init
+2023-12-17 11:56:12 | Directorio gir creado en ./.gir
+2023-12-17 11:56:12 | Ejecutando comando remote
+2023-12-17 11:56:12 | Se agrego el remote origin
+2023-12-17 11:56:12 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 12:14:05 | Iniciando receive pack
+2023-12-17 12:14:05 | Receive pack ejecutado con exito
+2023-12-17 12:14:05 | Iniciando upload pack
+2023-12-17 12:14:05 | Upload pack ejecutado con exito
+2023-12-17 12:14:05 | Iniciando upload pack
+2023-12-17 12:14:05 | Upload pack ejecutado con exito
+2023-12-17 12:14:05 | Iniciando upload pack
+2023-12-17 12:14:06 | Se ejecuta init
+2023-12-17 12:14:06 | Directorio gir creado en ./.gir
+2023-12-17 12:14:06 | Ejecutando comando remote
+2023-12-17 12:14:06 | Se agrego el remote origin
+2023-12-17 12:14:06 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 13:09:18 | Iniciando receive pack
+2023-12-17 13:09:18 | Receive pack ejecutado con exito
+2023-12-17 13:09:18 | Iniciando upload pack
+2023-12-17 13:09:18 | Upload pack ejecutado con exito
+2023-12-17 13:09:18 | Iniciando upload pack
+2023-12-17 13:09:18 | Upload pack ejecutado con exito
+2023-12-17 13:09:18 | Iniciando upload pack
+2023-12-17 13:09:19 | Se ejecuta init
+2023-12-17 13:09:19 | Directorio gir creado en ./.gir
+2023-12-17 13:09:19 | Ejecutando comando remote
+2023-12-17 13:09:19 | Se agrego el remote origin
+2023-12-17 13:09:19 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:01:04 | Iniciando receive pack
+2023-12-17 14:01:04 | Receive pack ejecutado con exito
+2023-12-17 14:01:04 | Iniciando upload pack
+2023-12-17 14:01:04 | Upload pack ejecutado con exito
+2023-12-17 14:01:04 | Iniciando upload pack
+2023-12-17 14:01:04 | Upload pack ejecutado con exito
+2023-12-17 14:01:04 | Iniciando upload pack
+2023-12-17 14:01:04 | Se ejecuta init
+2023-12-17 14:01:04 | Directorio gir creado en ./.gir
+2023-12-17 14:01:04 | Ejecutando comando remote
+2023-12-17 14:01:04 | Se agrego el remote origin
+2023-12-17 14:01:04 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:01:35 | Iniciando receive pack
+2023-12-17 14:01:35 | Receive pack ejecutado con exito
+2023-12-17 14:01:35 | Iniciando upload pack
+2023-12-17 14:01:35 | Upload pack ejecutado con exito
+2023-12-17 14:01:35 | Iniciando upload pack
+2023-12-17 14:01:35 | Upload pack ejecutado con exito
+2023-12-17 14:01:35 | Iniciando upload pack
+2023-12-17 14:01:36 | Se ejecuta init
+2023-12-17 14:01:36 | Directorio gir creado en ./.gir
+2023-12-17 14:01:36 | Ejecutando comando remote
+2023-12-17 14:01:36 | Se agrego el remote origin
+2023-12-17 14:01:36 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:02:45 | Iniciando receive pack
+2023-12-17 14:02:45 | Receive pack ejecutado con exito
+2023-12-17 14:02:45 | Iniciando upload pack
+2023-12-17 14:02:45 | Upload pack ejecutado con exito
+2023-12-17 14:02:45 | Iniciando upload pack
+2023-12-17 14:02:45 | Upload pack ejecutado con exito
+2023-12-17 14:02:45 | Iniciando upload pack
+2023-12-17 14:02:46 | Se ejecuta init
+2023-12-17 14:02:46 | Directorio gir creado en ./.gir
+2023-12-17 14:02:46 | Ejecutando comando remote
+2023-12-17 14:02:46 | Se agrego el remote origin
+2023-12-17 14:02:46 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:32:05 | Iniciando receive pack
+2023-12-17 14:32:05 | Receive pack ejecutado con exito
+2023-12-17 14:32:05 | Iniciando upload pack
+2023-12-17 14:32:05 | Upload pack ejecutado con exito
+2023-12-17 14:32:05 | Iniciando upload pack
+2023-12-17 14:32:05 | Upload pack ejecutado con exito
+2023-12-17 14:32:05 | Iniciando upload pack
+2023-12-17 14:32:05 | Se ejecuta init
+2023-12-17 14:32:05 | Directorio gir creado en ./.gir
+2023-12-17 14:32:05 | Ejecutando comando remote
+2023-12-17 14:32:05 | Se agrego el remote origin
+2023-12-17 14:32:05 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:35:18 | Iniciando receive pack
+2023-12-17 14:35:18 | Receive pack ejecutado con exito
+2023-12-17 14:35:18 | Iniciando upload pack
+2023-12-17 14:35:18 | Upload pack ejecutado con exito
+2023-12-17 14:35:18 | Iniciando upload pack
+2023-12-17 14:35:18 | Upload pack ejecutado con exito
+2023-12-17 14:35:18 | Iniciando upload pack
+2023-12-17 14:35:19 | Se ejecuta init
+2023-12-17 14:35:19 | Directorio gir creado en ./.gir
+2023-12-17 14:35:19 | Ejecutando comando remote
+2023-12-17 14:35:19 | Se agrego el remote origin
+2023-12-17 14:35:19 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:36:53 | Iniciando receive pack
+2023-12-17 14:36:53 | Receive pack ejecutado con exito
+2023-12-17 14:36:53 | Iniciando upload pack
+2023-12-17 14:36:53 | Upload pack ejecutado con exito
+2023-12-17 14:36:53 | Iniciando upload pack
+2023-12-17 14:36:53 | Upload pack ejecutado con exito
+2023-12-17 14:36:53 | Iniciando upload pack
+2023-12-17 14:36:54 | Se ejecuta init
+2023-12-17 14:36:54 | Directorio gir creado en ./.gir
+2023-12-17 14:36:54 | Ejecutando comando remote
+2023-12-17 14:36:54 | Se agrego el remote origin
+2023-12-17 14:36:54 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:37:30 | Iniciando receive pack
+2023-12-17 14:37:30 | Receive pack ejecutado con exito
+2023-12-17 14:37:30 | Iniciando upload pack
+2023-12-17 14:37:30 | Upload pack ejecutado con exito
+2023-12-17 14:37:30 | Iniciando upload pack
+2023-12-17 14:37:30 | Upload pack ejecutado con exito
+2023-12-17 14:37:30 | Iniciando upload pack
+2023-12-17 14:37:30 | Se ejecuta init
+2023-12-17 14:37:30 | Directorio gir creado en ./.gir
+2023-12-17 14:37:30 | Ejecutando comando remote
+2023-12-17 14:37:30 | Se agrego el remote origin
+2023-12-17 14:37:30 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:51:56 | Iniciando receive pack
+2023-12-17 14:51:56 | Receive pack ejecutado con exito
+2023-12-17 14:51:56 | Iniciando upload pack
+2023-12-17 14:51:56 | Upload pack ejecutado con exito
+2023-12-17 14:51:56 | Iniciando upload pack
+2023-12-17 14:51:56 | Upload pack ejecutado con exito
+2023-12-17 14:51:56 | Iniciando upload pack
+2023-12-17 14:51:57 | Se ejecuta init
+2023-12-17 14:51:57 | Directorio gir creado en ./.gir
+2023-12-17 14:51:57 | Ejecutando comando remote
+2023-12-17 14:51:57 | Se agrego el remote origin
+2023-12-17 14:51:57 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 14:53:00 | Iniciando receive pack
+2023-12-17 14:53:00 | Receive pack ejecutado con exito
+2023-12-17 14:53:00 | Iniciando upload pack
+2023-12-17 14:53:00 | Upload pack ejecutado con exito
+2023-12-17 14:53:00 | Iniciando upload pack
+2023-12-17 14:53:00 | Upload pack ejecutado con exito
+2023-12-17 14:53:00 | Iniciando upload pack
+2023-12-17 14:53:01 | Se ejecuta init
+2023-12-17 14:53:01 | Directorio gir creado en ./.gir
+2023-12-17 14:53:01 | Ejecutando comando remote
+2023-12-17 14:53:01 | Se agrego el remote origin
+2023-12-17 14:53:01 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 15:00:22 | Iniciando receive pack
+2023-12-17 15:00:22 | Receive pack ejecutado con exito
+2023-12-17 15:00:22 | Iniciando upload pack
+2023-12-17 15:00:22 | Upload pack ejecutado con exito
+2023-12-17 15:00:22 | Iniciando upload pack
+2023-12-17 15:00:22 | Upload pack ejecutado con exito
+2023-12-17 15:00:22 | Iniciando upload pack
+2023-12-17 15:00:22 | Se ejecuta init
+2023-12-17 15:00:22 | Directorio gir creado en ./.gir
+2023-12-17 15:00:22 | Ejecutando comando remote
+2023-12-17 15:00:22 | Se agrego el remote origin
+2023-12-17 15:00:22 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 15:14:38 | Iniciando receive pack
+2023-12-17 15:14:38 | Receive pack ejecutado con exito
+2023-12-17 15:14:38 | Iniciando upload pack
+2023-12-17 15:14:38 | Upload pack ejecutado con exito
+2023-12-17 15:14:38 | Iniciando upload pack
+2023-12-17 15:14:38 | Upload pack ejecutado con exito
+2023-12-17 15:14:38 | Iniciando upload pack
+2023-12-17 15:14:39 | Se ejecuta init
+2023-12-17 15:14:39 | Directorio gir creado en ./.gir
+2023-12-17 15:14:39 | Ejecutando comando remote
+2023-12-17 15:14:39 | Se agrego el remote origin
+2023-12-17 15:14:39 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 15:34:33 | Iniciando receive pack
+2023-12-17 15:34:33 | Receive pack ejecutado con exito
+2023-12-17 15:34:33 | Iniciando upload pack
+2023-12-17 15:34:33 | Upload pack ejecutado con exito
+2023-12-17 15:34:33 | Iniciando upload pack
+2023-12-17 15:34:34 | Upload pack ejecutado con exito
+2023-12-17 15:34:34 | Iniciando upload pack
+2023-12-17 15:34:34 | Se ejecuta init
+2023-12-17 15:34:34 | Directorio gir creado en ./.gir
+2023-12-17 15:34:34 | Ejecutando comando remote
+2023-12-17 15:34:34 | Se agrego el remote origin
+2023-12-17 15:34:34 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 15:52:46 | Iniciando receive pack
+2023-12-17 15:52:46 | Receive pack ejecutado con exito
+2023-12-17 15:52:46 | Iniciando upload pack
+2023-12-17 15:52:46 | Upload pack ejecutado con exito
+2023-12-17 15:52:46 | Iniciando upload pack
+2023-12-17 15:52:46 | Upload pack ejecutado con exito
+2023-12-17 15:52:46 | Iniciando upload pack
+2023-12-17 15:52:46 | Se ejecuta init
+2023-12-17 15:52:46 | Directorio gir creado en ./.gir
+2023-12-17 15:52:46 | Ejecutando comando remote
+2023-12-17 15:52:46 | Se agrego el remote origin
+2023-12-17 15:52:46 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 15:53:35 | Iniciando receive pack
+2023-12-17 15:53:35 | Receive pack ejecutado con exito
+2023-12-17 15:53:35 | Iniciando upload pack
+2023-12-17 15:53:35 | Upload pack ejecutado con exito
+2023-12-17 15:53:35 | Iniciando upload pack
+2023-12-17 15:53:35 | Upload pack ejecutado con exito
+2023-12-17 15:53:35 | Iniciando upload pack
+2023-12-17 15:53:36 | Se ejecuta init
+2023-12-17 15:53:36 | Directorio gir creado en ./.gir
+2023-12-17 15:53:36 | Ejecutando comando remote
+2023-12-17 15:53:36 | Se agrego el remote origin
+2023-12-17 15:53:36 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 16:27:14 | Iniciando receive pack
+2023-12-17 16:27:14 | Receive pack ejecutado con exito
+2023-12-17 16:27:14 | Iniciando upload pack
+2023-12-17 16:27:14 | Upload pack ejecutado con exito
+2023-12-17 16:27:14 | Iniciando upload pack
+2023-12-17 16:27:14 | Upload pack ejecutado con exito
+2023-12-17 16:27:14 | Iniciando upload pack
+2023-12-17 16:27:15 | Se ejecuta init
+2023-12-17 16:27:15 | Directorio gir creado en ./.gir
+2023-12-17 16:27:15 | Ejecutando comando remote
+2023-12-17 16:27:15 | Se agrego el remote origin
+2023-12-17 16:27:15 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 16:28:25 | Iniciando receive pack
+2023-12-17 16:28:25 | Receive pack ejecutado con exito
+2023-12-17 16:28:25 | Iniciando upload pack
+2023-12-17 16:28:25 | Upload pack ejecutado con exito
+2023-12-17 16:28:25 | Iniciando upload pack
+2023-12-17 16:28:25 | Upload pack ejecutado con exito
+2023-12-17 16:28:25 | Iniciando upload pack
+2023-12-17 16:28:26 | Se ejecuta init
+2023-12-17 16:28:26 | Directorio gir creado en ./.gir
+2023-12-17 16:28:26 | Ejecutando comando remote
+2023-12-17 16:28:26 | Se agrego el remote origin
+2023-12-17 16:28:26 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 16:41:14 | Iniciando receive pack
+2023-12-17 16:41:14 | Receive pack ejecutado con exito
+2023-12-17 16:41:14 | Iniciando upload pack
+2023-12-17 16:41:14 | Upload pack ejecutado con exito
+2023-12-17 16:41:14 | Iniciando upload pack
+2023-12-17 16:41:14 | Upload pack ejecutado con exito
+2023-12-17 16:41:14 | Iniciando upload pack
+2023-12-17 16:41:14 | Se ejecuta init
+2023-12-17 16:41:14 | Directorio gir creado en ./.gir
+2023-12-17 16:41:14 | Ejecutando comando remote
+2023-12-17 16:41:14 | Se agrego el remote origin
+2023-12-17 16:41:14 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-17 16:42:37 | Iniciando upload pack
+2023-12-18 10:57:17 | Iniciando receive pack
+2023-12-18 10:57:17 | Receive pack ejecutado con exito
+2023-12-18 10:57:17 | Iniciando upload pack
+2023-12-18 10:57:17 | Upload pack ejecutado con exito
+2023-12-18 10:57:17 | Iniciando upload pack
+2023-12-18 10:57:17 | Upload pack ejecutado con exito
+2023-12-18 10:57:17 | Iniciando upload pack
+2023-12-18 10:57:17 | Se ejecuta init
+2023-12-18 10:57:17 | Directorio gir creado en ./.gir
+2023-12-18 10:57:17 | Ejecutando comando remote
+2023-12-18 10:57:17 | Se agrego el remote origin
+2023-12-18 10:57:17 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:01:20 | Iniciando receive pack
+2023-12-18 11:01:20 | Receive pack ejecutado con exito
+2023-12-18 11:01:20 | Iniciando upload pack
+2023-12-18 11:01:20 | Upload pack ejecutado con exito
+2023-12-18 11:01:20 | Iniciando upload pack
+2023-12-18 11:01:20 | Upload pack ejecutado con exito
+2023-12-18 11:01:20 | Iniciando upload pack
+2023-12-18 11:01:20 | Se ejecuta init
+2023-12-18 11:01:20 | Directorio gir creado en ./.gir
+2023-12-18 11:01:20 | Ejecutando comando remote
+2023-12-18 11:01:20 | Se agrego el remote origin
+2023-12-18 11:01:20 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:07:52 | Iniciando receive pack
+2023-12-18 11:07:52 | Receive pack ejecutado con exito
+2023-12-18 11:07:52 | Iniciando upload pack
+2023-12-18 11:07:52 | Upload pack ejecutado con exito
+2023-12-18 11:07:52 | Iniciando upload pack
+2023-12-18 11:07:52 | Upload pack ejecutado con exito
+2023-12-18 11:07:52 | Iniciando upload pack
+2023-12-18 11:07:52 | Se ejecuta init
+2023-12-18 11:07:52 | Directorio gir creado en ./.gir
+2023-12-18 11:07:52 | Ejecutando comando remote
+2023-12-18 11:07:52 | Se agrego el remote origin
+2023-12-18 11:07:52 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:11:23 | Iniciando receive pack
+2023-12-18 11:11:23 | Receive pack ejecutado con exito
+2023-12-18 11:11:23 | Iniciando upload pack
+2023-12-18 11:11:23 | Upload pack ejecutado con exito
+2023-12-18 11:11:23 | Iniciando upload pack
+2023-12-18 11:11:23 | Upload pack ejecutado con exito
+2023-12-18 11:11:23 | Iniciando upload pack
+2023-12-18 11:11:23 | Se ejecuta init
+2023-12-18 11:11:23 | Directorio gir creado en ./.gir
+2023-12-18 11:11:23 | Ejecutando comando remote
+2023-12-18 11:11:23 | Se agrego el remote origin
+2023-12-18 11:11:23 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:29:44 | Iniciando receive pack
+2023-12-18 11:29:44 | Receive pack ejecutado con exito
+2023-12-18 11:29:44 | Iniciando upload pack
+2023-12-18 11:29:44 | Upload pack ejecutado con exito
+2023-12-18 11:29:44 | Iniciando upload pack
+2023-12-18 11:29:44 | Upload pack ejecutado con exito
+2023-12-18 11:29:44 | Iniciando upload pack
+2023-12-18 11:29:44 | Se ejecuta init
+2023-12-18 11:29:44 | Directorio gir creado en ./.gir
+2023-12-18 11:29:44 | Ejecutando comando remote
+2023-12-18 11:29:44 | Se agrego el remote origin
+2023-12-18 11:29:44 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:31:51 | Iniciando receive pack
+2023-12-18 11:31:51 | Receive pack ejecutado con exito
+2023-12-18 11:31:51 | Iniciando upload pack
+2023-12-18 11:31:51 | Upload pack ejecutado con exito
+2023-12-18 11:31:51 | Iniciando upload pack
+2023-12-18 11:31:51 | Upload pack ejecutado con exito
+2023-12-18 11:31:51 | Iniciando upload pack
+2023-12-18 11:31:51 | Se ejecuta init
+2023-12-18 11:31:51 | Directorio gir creado en ./.gir
+2023-12-18 11:31:51 | Ejecutando comando remote
+2023-12-18 11:31:51 | Se agrego el remote origin
+2023-12-18 11:31:51 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 11:33:19 | Iniciando receive pack
+2023-12-18 11:33:19 | Receive pack ejecutado con exito
+2023-12-18 11:33:19 | Iniciando upload pack
+2023-12-18 11:33:19 | Upload pack ejecutado con exito
+2023-12-18 11:33:19 | Iniciando upload pack
+2023-12-18 11:33:19 | Upload pack ejecutado con exito
+2023-12-18 11:33:19 | Iniciando upload pack
+2023-12-18 11:33:19 | Se ejecuta init
+2023-12-18 11:33:19 | Directorio gir creado en ./.gir
+2023-12-18 11:33:19 | Ejecutando comando remote
+2023-12-18 11:33:19 | Se agrego el remote origin
+2023-12-18 11:33:19 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 13:46:17 | Iniciando receive pack
+2023-12-18 13:46:17 | Receive pack ejecutado con exito
+2023-12-18 13:46:17 | Iniciando upload pack
+2023-12-18 13:46:18 | Upload pack ejecutado con exito
+2023-12-18 13:46:18 | Iniciando upload pack
+2023-12-18 13:46:18 | Upload pack ejecutado con exito
+2023-12-18 13:46:18 | Iniciando upload pack
+2023-12-18 13:46:18 | Se ejecuta init
+2023-12-18 13:46:18 | Directorio gir creado en ./.gir
+2023-12-18 13:46:18 | Ejecutando comando remote
+2023-12-18 13:46:18 | Se agrego el remote origin
+2023-12-18 13:46:18 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 13:49:04 | Iniciando receive pack
+2023-12-18 13:49:05 | Receive pack ejecutado con exito
+2023-12-18 13:49:05 | Iniciando upload pack
+2023-12-18 13:49:06 | Upload pack ejecutado con exito
+2023-12-18 13:49:06 | Iniciando upload pack
+2023-12-18 13:49:06 | Upload pack ejecutado con exito
+2023-12-18 13:49:06 | Iniciando upload pack
+2023-12-18 13:49:07 | Se ejecuta init
+2023-12-18 13:49:07 | Directorio gir creado en ./.gir
+2023-12-18 13:49:07 | Ejecutando comando remote
+2023-12-18 13:49:07 | Se agrego el remote origin
+2023-12-18 13:49:07 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 14:15:01 | Iniciando receive pack
+2023-12-18 14:15:01 | Receive pack ejecutado con exito
+2023-12-18 14:15:01 | Iniciando upload pack
+2023-12-18 14:15:01 | Upload pack ejecutado con exito
+2023-12-18 14:15:01 | Iniciando upload pack
+2023-12-18 14:15:01 | Upload pack ejecutado con exito
+2023-12-18 14:15:01 | Iniciando upload pack
+2023-12-18 14:15:01 | Se ejecuta init
+2023-12-18 14:15:01 | Directorio gir creado en ./.gir
+2023-12-18 14:15:01 | Ejecutando comando remote
+2023-12-18 14:15:01 | Se agrego el remote origin
+2023-12-18 14:15:01 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 14:17:55 | Iniciando receive pack
+2023-12-18 14:17:55 | Receive pack ejecutado con exito
+2023-12-18 14:17:55 | Iniciando upload pack
+2023-12-18 14:17:55 | Upload pack ejecutado con exito
+2023-12-18 14:17:55 | Iniciando upload pack
+2023-12-18 14:17:55 | Upload pack ejecutado con exito
+2023-12-18 14:17:55 | Iniciando upload pack
+2023-12-18 14:17:55 | Se ejecuta init
+2023-12-18 14:17:55 | Directorio gir creado en ./.gir
+2023-12-18 14:17:55 | Ejecutando comando remote
+2023-12-18 14:17:55 | Se agrego el remote origin
+2023-12-18 14:17:55 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 14:46:10 | Iniciando receive pack
+2023-12-18 14:46:10 | Receive pack ejecutado con exito
+2023-12-18 14:46:10 | Iniciando upload pack
+2023-12-18 14:46:10 | Upload pack ejecutado con exito
+2023-12-18 14:46:10 | Iniciando upload pack
+2023-12-18 14:46:10 | Upload pack ejecutado con exito
+2023-12-18 14:46:10 | Iniciando upload pack
+2023-12-18 14:46:11 | Se ejecuta init
+2023-12-18 14:46:11 | Directorio gir creado en ./.gir
+2023-12-18 14:46:11 | Ejecutando comando remote
+2023-12-18 14:46:11 | Se agrego el remote origin
+2023-12-18 14:46:11 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 15:19:48 | Iniciando receive pack
+2023-12-18 15:19:48 | Receive pack ejecutado con exito
+2023-12-18 15:19:48 | Iniciando upload pack
+2023-12-18 15:19:49 | Upload pack ejecutado con exito
+2023-12-18 15:19:49 | Iniciando upload pack
+2023-12-18 15:19:49 | Upload pack ejecutado con exito
+2023-12-18 15:19:49 | Iniciando upload pack
+2023-12-18 15:19:50 | Se ejecuta init
+2023-12-18 15:19:50 | Directorio gir creado en ./.gir
+2023-12-18 15:19:50 | Ejecutando comando remote
+2023-12-18 15:19:50 | Se agrego el remote origin
+2023-12-18 15:19:50 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 15:24:22 | Iniciando receive pack
+2023-12-18 15:24:22 | Receive pack ejecutado con exito
+2023-12-18 15:24:22 | Iniciando upload pack
+2023-12-18 15:24:22 | Upload pack ejecutado con exito
+2023-12-18 15:24:22 | Iniciando upload pack
+2023-12-18 15:24:22 | Upload pack ejecutado con exito
+2023-12-18 15:24:22 | Iniciando upload pack
+2023-12-18 15:24:23 | Se ejecuta init
+2023-12-18 15:24:23 | Directorio gir creado en ./.gir
+2023-12-18 15:24:23 | Ejecutando comando remote
+2023-12-18 15:24:23 | Se agrego el remote origin
+2023-12-18 15:24:23 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-18 15:26:27 | Iniciando receive pack
+2023-12-18 15:26:27 | Receive pack ejecutado con exito
+2023-12-18 15:26:27 | Iniciando upload pack
+2023-12-18 15:26:27 | Upload pack ejecutado con exito
+2023-12-18 15:26:27 | Iniciando upload pack
+2023-12-18 15:26:27 | Upload pack ejecutado con exito
+2023-12-18 15:26:27 | Iniciando upload pack
+2023-12-18 15:26:28 | Se ejecuta init
+2023-12-18 15:26:28 | Directorio gir creado en ./.gir
+2023-12-18 15:26:28 | Ejecutando comando remote
+2023-12-18 15:26:28 | Se agrego el remote origin
+2023-12-18 15:26:28 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 12:05:16 | Iniciando receive pack
+2023-12-19 12:05:16 | Receive pack ejecutado con exito
+2023-12-19 12:05:16 | Iniciando upload pack
+2023-12-19 12:05:16 | Upload pack ejecutado con exito
+2023-12-19 12:05:16 | Iniciando upload pack
+2023-12-19 12:05:16 | Upload pack ejecutado con exito
+2023-12-19 12:05:16 | Iniciando upload pack
+2023-12-19 12:05:17 | Se ejecuta init
+2023-12-19 12:05:17 | Directorio gir creado en ./.gir
+2023-12-19 12:05:17 | Ejecutando comando remote
+2023-12-19 12:05:17 | Se agrego el remote origin
+2023-12-19 12:05:17 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 13:37:31 | Iniciando receive pack
+2023-12-19 13:37:31 | Receive pack ejecutado con exito
+2023-12-19 13:37:31 | Iniciando upload pack
+2023-12-19 13:37:31 | Upload pack ejecutado con exito
+2023-12-19 13:37:31 | Iniciando upload pack
+2023-12-19 13:37:31 | Upload pack ejecutado con exito
+2023-12-19 13:37:31 | Iniciando upload pack
+2023-12-19 13:37:32 | Se ejecuta init
+2023-12-19 13:37:32 | Directorio gir creado en ./.gir
+2023-12-19 13:37:32 | Ejecutando comando remote
+2023-12-19 13:37:32 | Se agrego el remote origin
+2023-12-19 13:37:32 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 13:47:09 | Iniciando receive pack
+2023-12-19 13:47:09 | Receive pack ejecutado con exito
+2023-12-19 13:47:09 | Iniciando upload pack
+2023-12-19 13:47:09 | Upload pack ejecutado con exito
+2023-12-19 13:47:09 | Iniciando upload pack
+2023-12-19 13:47:09 | Upload pack ejecutado con exito
+2023-12-19 13:47:09 | Iniciando upload pack
+2023-12-19 13:47:10 | Se ejecuta init
+2023-12-19 13:47:10 | Directorio gir creado en ./.gir
+2023-12-19 13:47:10 | Ejecutando comando remote
+2023-12-19 13:47:10 | Se agrego el remote origin
+2023-12-19 13:47:10 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 13:52:18 | Iniciando receive pack
+2023-12-19 13:52:18 | Receive pack ejecutado con exito
+2023-12-19 13:52:18 | Iniciando upload pack
+2023-12-19 13:52:18 | Upload pack ejecutado con exito
+2023-12-19 13:52:18 | Iniciando upload pack
+2023-12-19 13:52:18 | Upload pack ejecutado con exito
+2023-12-19 13:52:18 | Iniciando upload pack
+2023-12-19 13:52:19 | Se ejecuta init
+2023-12-19 13:52:19 | Directorio gir creado en ./.gir
+2023-12-19 13:52:19 | Ejecutando comando remote
+2023-12-19 13:52:19 | Se agrego el remote origin
+2023-12-19 13:52:19 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 13:57:43 | Iniciando receive pack
+2023-12-19 13:57:43 | Receive pack ejecutado con exito
+2023-12-19 13:57:43 | Iniciando upload pack
+2023-12-19 13:57:43 | Upload pack ejecutado con exito
+2023-12-19 13:57:43 | Iniciando upload pack
+2023-12-19 13:57:43 | Upload pack ejecutado con exito
+2023-12-19 13:57:43 | Iniciando upload pack
+2023-12-19 13:57:44 | Se ejecuta init
+2023-12-19 13:57:44 | Directorio gir creado en ./.gir
+2023-12-19 13:57:44 | Ejecutando comando remote
+2023-12-19 13:57:44 | Se agrego el remote origin
+2023-12-19 13:57:44 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 13:59:35 | Iniciando receive pack
+2023-12-19 13:59:35 | Receive pack ejecutado con exito
+2023-12-19 13:59:35 | Iniciando upload pack
+2023-12-19 13:59:35 | Upload pack ejecutado con exito
+2023-12-19 13:59:35 | Iniciando upload pack
+2023-12-19 13:59:35 | Upload pack ejecutado con exito
+2023-12-19 13:59:35 | Iniciando upload pack
+2023-12-19 13:59:35 | Se ejecuta init
+2023-12-19 13:59:35 | Directorio gir creado en ./.gir
+2023-12-19 13:59:35 | Ejecutando comando remote
+2023-12-19 13:59:35 | Se agrego el remote origin
+2023-12-19 13:59:35 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 14:03:25 | Iniciando receive pack
+2023-12-19 14:03:25 | Receive pack ejecutado con exito
+2023-12-19 14:03:25 | Iniciando upload pack
+2023-12-19 14:03:25 | Upload pack ejecutado con exito
+2023-12-19 14:03:25 | Iniciando upload pack
+2023-12-19 14:03:25 | Upload pack ejecutado con exito
+2023-12-19 14:03:25 | Iniciando upload pack
+2023-12-19 14:03:26 | Se ejecuta init
+2023-12-19 14:03:26 | Directorio gir creado en ./.gir
+2023-12-19 14:03:26 | Ejecutando comando remote
+2023-12-19 14:03:26 | Se agrego el remote origin
+2023-12-19 14:03:26 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])
+2023-12-19 14:05:12 | Iniciando receive pack
+2023-12-19 14:05:12 | Receive pack ejecutado con exito
+2023-12-19 14:05:12 | Iniciando upload pack
+2023-12-19 14:05:12 | Upload pack ejecutado con exito
+2023-12-19 14:05:12 | Iniciando upload pack
+2023-12-19 14:05:12 | Upload pack ejecutado con exito
+2023-12-19 14:05:12 | Iniciando upload pack
+2023-12-19 14:05:12 | Se ejecuta init
+2023-12-19 14:05:12 | Directorio gir creado en ./.gir
+2023-12-19 14:05:12 | Ejecutando comando remote
+2023-12-19 14:05:12 | Se agrego el remote origin
+2023-12-19 14:05:12 | Se ejecuto correctamte la fase de decubrimiento en Fetch: (["multi_ack", "thin-pack", "side-band", "side-band-64k", "ofs-delta", "shallow", "no-progress", "include-tag"], None, [("1d3fcd5ced445d1abc402225c0b8a1299641f497", "refs/heads/integration"), ("7217a7c7e582c46cec22a130adf4b9d7d950fba0", "refs/heads/master")], [("b88d2441cac0977faf98efc80305012112238d9d", "refs/tags/v0.9"), ("525128480b96c89e6418b1e40909bf6c5b2d580f", "refs/tags/v1.0"), ("e92df48743b7bc7d26bcaabfddde0a1e20cae47c", "refs/tags/v1.0^{}")])

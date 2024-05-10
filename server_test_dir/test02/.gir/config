@@ -1,0 +1,5 @@
+[remote "origin"]
+   url = localhost:9369/gir/
+[branch "master"]
+   remote = origin
+   merge = refs/heads/master

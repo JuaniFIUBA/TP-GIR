@@ -1,0 +1,1308 @@
+contenido9 14:05:14 | Directorio gir creado en ./.gir
+2023-12-19 14:05:14 | Ejecutando add
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Agregando tmp/init_addear_status al index
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/init_addear_status
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/init_addear_status
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en .girignore
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en .log.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en file1.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en Cargo.toml
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en gir-repro-prueba/objeto-no-push
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/mod.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/http_server.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/obtener_commits_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/crear_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/obtener_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/mergear_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/actualizar_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/mensaje_servidor.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/rutas/listar_pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/pull_request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/gir_server.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/receive_pack.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/vector_threads.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/hashmap_threads.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/servidor/upload_pack.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/lib.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/main.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comando.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/tipo_de_rama.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/error.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/estado.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/endpoint.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/tipo_contenido.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/endpoint_handler.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/metodos.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/response.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/http/request.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/lado_conflicto.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/mensajes_log.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comunicacion.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/objeto.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/referencia_commit.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/diffgrid.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/referencia.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/visualizaciones.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/respuesta_pedido.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/region.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/tipo_diff.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/config.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/conflicto.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/write_tree.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/checkout.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/remote.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/rebase.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/merge/mod.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/merge/estrategias_conflictos.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/show_ref.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/log.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/clone.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/hash_object.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/push.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/commit.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/init.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/set_upstream.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/cat_file.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/add.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/fetch.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/check_ignore.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/pull.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/ls_files.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/tag.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/ls_tree.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/branch.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/version.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/status.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/comandos/rm.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/logger.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/variante_comando_remote.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/info_ramas.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/objetos/commit.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/objetos/tree.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/objetos/blob.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/date.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/tipos_de_dato/packfile.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/mod.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/rebase_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/remote_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/upstream_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/check_ignore_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/merge_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/log_list.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/estilos.css
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/hash_object_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/show_ref_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/ls_files_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/refresh.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/conflicts_modal.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/tag_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/pull_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/push_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/info_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/rm_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/branch_selector.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/branch_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/cat_file_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/new_commit_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/clone_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/log_seleccionado.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/staging_area.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/ls_tree_button.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/comando_gui.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/glade1.glade
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/tag_list.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/gui/new_branch_dialog.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/io.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/fase_descubrimiento.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/compresion.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/referencia.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/path_buf.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/ramas.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/gir_config.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/tags.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/testing.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/strings.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/index.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/utils/objects.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en src/err_comunicacion.rs
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/config
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/54/0dcacb0656da732ea265a8e690fba9cbf273bf
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/11/04d081f9efa496824ff6e3041280d2fe6379c1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/0a/3965af663795bc6010f3eb8e07c3fc56e68c00
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/41/63eb28ec61fd1d0c17cf9b77f4c17e1e338b0b
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/7b/575dfe6da6ff064292ee8b84f55711d5739090
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/55/e63f1e79dd09c365d5723396baddb23a63dbac
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/fc/396422383e59d1d9dbc8a32e879cfbd72ec69d
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/ee/47adeab2f92b85a728931b152f49445204cff5
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/31/19564a2377d3efd209a31e64e0e51ce810fb90
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/d2/0ac3d466f6819af4c7cf964e764f1ff093b10d
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/79/ed9b443a1a1c1053731662065266a3006acd70
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/78/ec93451cda42027badf0afa31e3c23e423ccd1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/e3/ec6074910448cc3f4f671348d3fc53f788f398
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/43/81c9830d99c72489bd10e18a0671ee7523caf8
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/94/6d90791626c304fc5581be199b69fb3e04646c
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/8f/63722a025d936c53304d40ba3197ffebf194d1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/7a/281d4b5ff9b6e01d648f5b483aba10a4605e63
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/objects/2c/263e081d19967c7076af3c009da3e34ac720d4
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/index
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/HEAD
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/refs/remotes/origin/master
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test02/.gir/ORIGIN_HEAD
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/config
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/54/0dcacb0656da732ea265a8e690fba9cbf273bf
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/11/04d081f9efa496824ff6e3041280d2fe6379c1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/0a/3965af663795bc6010f3eb8e07c3fc56e68c00
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/41/63eb28ec61fd1d0c17cf9b77f4c17e1e338b0b
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/7b/575dfe6da6ff064292ee8b84f55711d5739090
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/55/e63f1e79dd09c365d5723396baddb23a63dbac
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/fc/396422383e59d1d9dbc8a32e879cfbd72ec69d
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/ee/47adeab2f92b85a728931b152f49445204cff5
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/31/19564a2377d3efd209a31e64e0e51ce810fb90
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/d2/0ac3d466f6819af4c7cf964e764f1ff093b10d
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/79/ed9b443a1a1c1053731662065266a3006acd70
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/78/ec93451cda42027badf0afa31e3c23e423ccd1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/e3/ec6074910448cc3f4f671348d3fc53f788f398
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/43/81c9830d99c72489bd10e18a0671ee7523caf8
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/94/6d90791626c304fc5581be199b69fb3e04646c
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/8f/63722a025d936c53304d40ba3197ffebf194d1
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/7a/281d4b5ff9b6e01d648f5b483aba10a4605e63
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/objects/2c/263e081d19967c7076af3c009da3e34ac720d4
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/index
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/HEAD
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/refs/heads/master
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/refs/remotes/origin/master
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test03/.gir/ORIGIN_HEAD
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en server_test_dir/test04/refs/heads/master
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/request_test05
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/commit_test05
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/rm_test01
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/remote_test06
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/commit_test03
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/remote_test03
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/checkout_test04_test
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/tree_test01
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/show_ref_test01
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/fetch_01.txt
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:14 | Objeto gir hasheado en tmp/check_ignore_test06
+2023-12-19 14:05:14 | Buscando archivos ignorados
+2023-12-19 14:05:14 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/checkout_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test07
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/commit_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/test_dir/testfile.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_init
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/commit_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/commit_init
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/objeto_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/log_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test07
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/objeto_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/request_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/fetch_04.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/set_up_stream_04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tag_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/cat_file_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/pr_test_15
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/response_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tag_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_init
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/comunicacion_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/objeto_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/fetch_05.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/log_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/remote_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/comunicacion_test02.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/request_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/fetch_02.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/fetch_03.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/checkout_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/request_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_tree_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/pr_test_14
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/set_up_stream_02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/log_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/remote_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/set_up_stream_03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/show_ref_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/checkout_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/init_addear_status
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/objeto_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/commit_obj_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_07
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_tree_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/remote_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/checkout_test03_test
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/response_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/remote_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_init
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/response_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tag_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/commit_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/status_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/comunicacion_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/branch_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/objeto_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/hash_object_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/log_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/show_ref_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/request_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/cat_file_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/cat_file_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/set_up_stream_01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/ls_files_test01
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test08
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/push_04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/checkout_test06
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test02
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/check_ignore_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/init_addear_committear_log
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/show_ref_test03
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/tree_test07
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/add_test05
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tmp/servidor_http_test04
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en diagrama.png
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en README.md
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en .gitignore
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en test_file2.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en tests/tests_integracion.rs
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en archivezco.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en test_file.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en archivo2.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en log.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en server_logger.txt
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en Cargo.lock
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en packfile_test
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/95/e4ec28265d26db1964738ceb6ae67fed47e87b
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/fe/d1a07f9883c1407bf24cab33861040e95a0d73
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/e4/df82e53180b1d1806bf25cadb072c7a264db68
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/7f/e27f2dc820306c5bbf6903aed0b8648d53ac7b
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/bd/a779fb5b578957107402936edff916b59d0d8a
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/0b/bee74fc611d35b224badb67a121c6624d5d24e
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/d2/207d7532b976e05bada36e723b79f26cd7f2cd
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/e6/1ef66e6129714815569ed723f0357d288691e2
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/objects/33/e89685c48a1f4386f447fa0a76b59efd78a558
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/refs/heads/master
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo/.gir/refs/heads/rama
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en srv/repo_test_07_pull_request/.gir/refs/heads/bombastic_fantastic
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en objeto-no-push
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en Informe Git Rústico - Cangrejos Tacticos.pdf
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en packfile_test_dir/51/22b1de1b7a07e36b01cd62bd622a0715f92478
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Objeto gir hasheado en packfile_test_dir/87/7e9f62c1031de82130f279f009469cc9e09ab0
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Buscando archivos ignorados
+2023-12-19 14:05:15 | Check ignore finalizado
+2023-12-19 14:05:15 | Status terminado

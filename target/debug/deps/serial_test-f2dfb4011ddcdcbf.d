@@ -1,0 +1,11 @@
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/deps/serial_test-f2dfb4011ddcdcbf.rmeta: /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/lib.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/parallel_code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/rwlock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/serial_code_lock.rs
+
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/deps/libserial_test-f2dfb4011ddcdcbf.rlib: /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/lib.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/parallel_code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/rwlock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/serial_code_lock.rs
+
+/home/juani/23C2-Cangrejos-Tacticos/target/debug/deps/serial_test-f2dfb4011ddcdcbf.d: /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/lib.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/parallel_code_lock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/rwlock.rs /home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/serial_code_lock.rs
+
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/lib.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/code_lock.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/parallel_code_lock.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/rwlock.rs:
+/home/juani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-1.0.0/src/serial_code_lock.rs:

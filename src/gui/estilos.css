@@ -1,0 +1,203 @@
+.header {
+  background-color: #334155;
+}
+
+button {
+  background-color: #f1f5f9;
+  background-image: none;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  border: 0.5px solid #cbd5e1;
+}
+
+scrolledwindow {
+  border: none;
+}
+
+.button-blue {
+  background-color: #2563eb;
+  color: #f1f5f9;
+  text-shadow: none;
+}
+
+combobox window menu {
+  background-color: #f1f5f9;
+}
+
+.app {
+  background-color: #f8fafc;
+}
+
+entry {
+  background-color: #f1f5f9;
+  border: 0.5px solid #cbd5e1;
+}
+
+.notebook tabs {
+  background-color: #f8fafc;
+  border-bottom: 0.5px solid #cbd5e1;
+}
+.notebook tabs label {
+  color: #64748b;
+}
+
+header > tabs > tab:checked label {
+  color: rgb(48, 108, 187);
+}
+
+.notebook tab:hover {
+  background-color: #e2e8f0;
+  border-bottom: 0;
+}
+
+.notebook textview text {
+  background-color: #f8fafc;
+  border-radius: 0px;
+}
+
+.notebook scrolledwindow {
+  font-size: 12px;
+  background-color: #f8fafc;
+  border: 0;
+  font-family: monospace;
+  border-radius: 4px;
+  padding: 8px;
+}
+.notebook viewport {
+  background-color: #f1f5f9;
+  border: 0;
+}
+.notebook {
+  border: 0;
+}
+
+.label {
+  color: #f3f4f6;
+}
+
+.log-container {
+  border: 0.5px solid #cbd5e1;
+  border-radius: 0.375rem; /* 6px */
+}
+
+.commit-label-blue {
+  background-color: rgba(241, 245, 249, 0.65);
+  font-size: 14px;
+  font-family: monospace;
+  border-bottom: 0.5px solid #cbd5e1;
+}
+
+.commit-label-red {
+  background-color: rgba(249, 241, 241, 0.65);
+  font-size: 14px;
+  font-family: monospace;
+  border-bottom: 0.5px solid #cbd5e1;
+}
+
+.commit-label-green {
+  background-color: rgba(241, 249, 241, 0.65);
+  font-size: 14px;
+  font-family: monospace;
+  border-bottom: 0.5px solid #cbd5e1;
+}
+
+.commit-label-yellow {
+  background-color: rgba(249, 249, 241, 0.65);
+  font-size: 14px;
+  font-family: monospace;
+  border-bottom: 0.5px solid #cbd5e1;
+}
+
+.label-blue {
+  color: #0369a1;
+}
+
+.label-red {
+  color: #be123c;
+}
+
+.label-grey {
+  color: #6b7280;
+  font-size: medium;
+}
+
+.label-green {
+  color: #15803d;
+}
+
+.label-yellow {
+  color: #9d6f00;
+}
+
+.last-commit-label {
+  border-bottom: 0;
+}
+
+.commit-info textview {
+  font-size: 12px;
+  font-family: monospace;
+  border-radius: 4px;
+}
+
+.no-commits-label {
+  color: #94a3b8;
+}
+
+.commit-info text {
+  background-color: rgba(225, 231, 239, 0.65);
+  border-radius: 4px;
+  border: 0.5px solid #94a3b8;
+}
+
+.files-container textview text {
+  background-color: #f1f5f9;
+  border-radius: 0px;
+}
+
+.files-container scrolledwindow {
+  font-size: 12px;
+  font-family: monospace;
+  background-color: rgba(225, 231, 239, 0.65);
+  border-radius: 4px;
+  border: 0.5px solid #94a3b8;
+  padding: 8px;
+}
+
+popover {
+  background-color: #f1f5f9;
+  border: #8c9bae;
+}
+
+.border-b {
+  border-bottom: 0.5px solid #cbd5e1;
+}
+
+treeview:selected {
+  background-color: #3b82f6;
+  border-radius: 0.375rem; /* 6px */
+}
+
+treeview {
+  background-color: transparent;
+}
+
+.treeview-container {
+  border: 0.5px solid #cbd5e1;
+  border-radius: 0.375rem; /* 6px */
+}
+
+.rojo {
+  font-size: 12px;
+  font-family: monospace;
+  color: rgb(240, 68, 56);
+}
+
+.verde {
+  font-size: 12px;
+  font-family: monospace;
+  color: rgb(3, 152, 85);
+}
+
+checkbutton check {
+  background-color: #f1f5f9;
+  border: 0.5px solid #94a3b8;
+}

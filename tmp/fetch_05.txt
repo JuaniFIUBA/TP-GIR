@@ -1,0 +1,540 @@
+2023-12-16 15:55:31 | Se ejecuta init
+2023-12-16 15:55:31 | Directorio gir creado en ./.gir
+2023-12-16 15:55:31 | Ejecutando comando remote
+2023-12-16 15:55:31 | Se agrego el remote san-siro
+2023-12-16 15:55:31 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-16 15:55:31 | Se ejecuta init
+2023-12-16 15:55:31 | Directorio gir creado en ./.gir
+2023-12-16 15:55:31 | Ejecutando comando remote
+2023-12-16 15:55:31 | Se agrego el remote san-siro
+2023-12-16 15:55:31 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:27:27 | Se ejecuta init
+2023-12-17 11:27:27 | Directorio gir creado en ./.gir
+2023-12-17 11:27:27 | Ejecutando comando remote
+2023-12-17 11:27:27 | Se agrego el remote san-siro
+2023-12-17 11:27:27 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:27:27 | Se ejecuta init
+2023-12-17 11:27:27 | Directorio gir creado en ./.gir
+2023-12-17 11:27:27 | Ejecutando comando remote
+2023-12-17 11:27:27 | Se agrego el remote san-siro
+2023-12-17 11:27:27 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:28:04 | Se ejecuta init
+2023-12-17 11:28:04 | Directorio gir creado en ./.gir
+2023-12-17 11:28:04 | Ejecutando comando remote
+2023-12-17 11:28:04 | Se agrego el remote san-siro
+2023-12-17 11:28:04 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:28:04 | Se ejecuta init
+2023-12-17 11:28:04 | Directorio gir creado en ./.gir
+2023-12-17 11:28:04 | Ejecutando comando remote
+2023-12-17 11:28:04 | Se agrego el remote san-siro
+2023-12-17 11:28:04 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:28:58 | Se ejecuta init
+2023-12-17 11:28:58 | Directorio gir creado en ./.gir
+2023-12-17 11:28:58 | Ejecutando comando remote
+2023-12-17 11:28:58 | Se agrego el remote san-siro
+2023-12-17 11:28:58 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:28:58 | Se ejecuta init
+2023-12-17 11:28:58 | Directorio gir creado en ./.gir
+2023-12-17 11:28:58 | Ejecutando comando remote
+2023-12-17 11:28:58 | Se agrego el remote san-siro
+2023-12-17 11:28:58 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:29:45 | Se ejecuta init
+2023-12-17 11:29:45 | Directorio gir creado en ./.gir
+2023-12-17 11:29:45 | Ejecutando comando remote
+2023-12-17 11:29:45 | Se agrego el remote san-siro
+2023-12-17 11:29:45 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:29:45 | Se ejecuta init
+2023-12-17 11:29:45 | Directorio gir creado en ./.gir
+2023-12-17 11:29:45 | Ejecutando comando remote
+2023-12-17 11:29:45 | Se agrego el remote san-siro
+2023-12-17 11:29:45 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:31:35 | Se ejecuta init
+2023-12-17 11:31:35 | Directorio gir creado en ./.gir
+2023-12-17 11:31:35 | Ejecutando comando remote
+2023-12-17 11:31:35 | Se agrego el remote san-siro
+2023-12-17 11:31:35 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:31:35 | Se ejecuta init
+2023-12-17 11:31:35 | Directorio gir creado en ./.gir
+2023-12-17 11:31:35 | Ejecutando comando remote
+2023-12-17 11:31:35 | Se agrego el remote san-siro
+2023-12-17 11:31:35 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:34:16 | Se ejecuta init
+2023-12-17 11:34:16 | Directorio gir creado en ./.gir
+2023-12-17 11:34:16 | Ejecutando comando remote
+2023-12-17 11:34:16 | Se agrego el remote san-siro
+2023-12-17 11:34:16 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:34:16 | Se ejecuta init
+2023-12-17 11:34:16 | Directorio gir creado en ./.gir
+2023-12-17 11:34:16 | Ejecutando comando remote
+2023-12-17 11:34:16 | Se agrego el remote san-siro
+2023-12-17 11:34:16 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:35:27 | Se ejecuta init
+2023-12-17 11:35:27 | Directorio gir creado en ./.gir
+2023-12-17 11:35:27 | Ejecutando comando remote
+2023-12-17 11:35:27 | Se agrego el remote san-siro
+2023-12-17 11:35:27 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:35:27 | Se ejecuta init
+2023-12-17 11:35:27 | Directorio gir creado en ./.gir
+2023-12-17 11:35:27 | Ejecutando comando remote
+2023-12-17 11:35:27 | Se agrego el remote san-siro
+2023-12-17 11:35:27 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:38:38 | Se ejecuta init
+2023-12-17 11:38:38 | Directorio gir creado en ./.gir
+2023-12-17 11:38:38 | Ejecutando comando remote
+2023-12-17 11:38:38 | Se agrego el remote san-siro
+2023-12-17 11:38:38 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:38:38 | Se ejecuta init
+2023-12-17 11:38:38 | Directorio gir creado en ./.gir
+2023-12-17 11:38:38 | Ejecutando comando remote
+2023-12-17 11:38:38 | Se agrego el remote san-siro
+2023-12-17 11:38:38 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:49:12 | Se ejecuta init
+2023-12-17 11:49:12 | Directorio gir creado en ./.gir
+2023-12-17 11:49:12 | Ejecutando comando remote
+2023-12-17 11:49:12 | Se agrego el remote san-siro
+2023-12-17 11:49:12 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:49:12 | Se ejecuta init
+2023-12-17 11:49:12 | Directorio gir creado en ./.gir
+2023-12-17 11:49:12 | Ejecutando comando remote
+2023-12-17 11:49:12 | Se agrego el remote san-siro
+2023-12-17 11:49:12 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:51:37 | Se ejecuta init
+2023-12-17 11:51:37 | Directorio gir creado en ./.gir
+2023-12-17 11:51:37 | Ejecutando comando remote
+2023-12-17 11:51:37 | Se agrego el remote san-siro
+2023-12-17 11:51:37 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:51:37 | Se ejecuta init
+2023-12-17 11:51:37 | Directorio gir creado en ./.gir
+2023-12-17 11:51:37 | Ejecutando comando remote
+2023-12-17 11:51:37 | Se agrego el remote san-siro
+2023-12-17 11:51:37 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:56:12 | Se ejecuta init
+2023-12-17 11:56:12 | Directorio gir creado en ./.gir
+2023-12-17 11:56:12 | Ejecutando comando remote
+2023-12-17 11:56:12 | Se agrego el remote san-siro
+2023-12-17 11:56:12 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 11:56:12 | Se ejecuta init
+2023-12-17 11:56:12 | Directorio gir creado en ./.gir
+2023-12-17 11:56:12 | Ejecutando comando remote
+2023-12-17 11:56:12 | Se agrego el remote san-siro
+2023-12-17 11:56:12 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 12:14:06 | Se ejecuta init
+2023-12-17 12:14:06 | Directorio gir creado en ./.gir
+2023-12-17 12:14:06 | Ejecutando comando remote
+2023-12-17 12:14:06 | Se agrego el remote san-siro
+2023-12-17 12:14:06 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 12:14:06 | Se ejecuta init
+2023-12-17 12:14:06 | Directorio gir creado en ./.gir
+2023-12-17 12:14:06 | Ejecutando comando remote
+2023-12-17 12:14:06 | Se agrego el remote san-siro
+2023-12-17 12:14:06 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 13:09:19 | Se ejecuta init
+2023-12-17 13:09:19 | Directorio gir creado en ./.gir
+2023-12-17 13:09:19 | Ejecutando comando remote
+2023-12-17 13:09:19 | Se agrego el remote san-siro
+2023-12-17 13:09:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 13:09:19 | Se ejecuta init
+2023-12-17 13:09:19 | Directorio gir creado en ./.gir
+2023-12-17 13:09:19 | Ejecutando comando remote
+2023-12-17 13:09:19 | Se agrego el remote san-siro
+2023-12-17 13:09:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:01:04 | Se ejecuta init
+2023-12-17 14:01:04 | Directorio gir creado en ./.gir
+2023-12-17 14:01:04 | Ejecutando comando remote
+2023-12-17 14:01:04 | Se agrego el remote san-siro
+2023-12-17 14:01:04 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:01:04 | Se ejecuta init
+2023-12-17 14:01:04 | Directorio gir creado en ./.gir
+2023-12-17 14:01:04 | Ejecutando comando remote
+2023-12-17 14:01:04 | Se agrego el remote san-siro
+2023-12-17 14:01:04 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:01:36 | Se ejecuta init
+2023-12-17 14:01:36 | Directorio gir creado en ./.gir
+2023-12-17 14:01:36 | Ejecutando comando remote
+2023-12-17 14:01:36 | Se agrego el remote san-siro
+2023-12-17 14:01:36 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:01:36 | Se ejecuta init
+2023-12-17 14:01:36 | Directorio gir creado en ./.gir
+2023-12-17 14:01:36 | Ejecutando comando remote
+2023-12-17 14:01:36 | Se agrego el remote san-siro
+2023-12-17 14:01:36 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:02:46 | Se ejecuta init
+2023-12-17 14:02:46 | Directorio gir creado en ./.gir
+2023-12-17 14:02:46 | Ejecutando comando remote
+2023-12-17 14:02:46 | Se agrego el remote san-siro
+2023-12-17 14:02:46 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:02:46 | Se ejecuta init
+2023-12-17 14:02:46 | Directorio gir creado en ./.gir
+2023-12-17 14:02:46 | Ejecutando comando remote
+2023-12-17 14:02:46 | Se agrego el remote san-siro
+2023-12-17 14:02:46 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:32:05 | Se ejecuta init
+2023-12-17 14:32:05 | Directorio gir creado en ./.gir
+2023-12-17 14:32:05 | Ejecutando comando remote
+2023-12-17 14:32:05 | Se agrego el remote san-siro
+2023-12-17 14:32:05 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:32:05 | Se ejecuta init
+2023-12-17 14:32:05 | Directorio gir creado en ./.gir
+2023-12-17 14:32:05 | Ejecutando comando remote
+2023-12-17 14:32:05 | Se agrego el remote san-siro
+2023-12-17 14:32:05 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:35:19 | Se ejecuta init
+2023-12-17 14:35:19 | Directorio gir creado en ./.gir
+2023-12-17 14:35:19 | Ejecutando comando remote
+2023-12-17 14:35:19 | Se agrego el remote san-siro
+2023-12-17 14:35:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:35:19 | Se ejecuta init
+2023-12-17 14:35:19 | Directorio gir creado en ./.gir
+2023-12-17 14:35:19 | Ejecutando comando remote
+2023-12-17 14:35:19 | Se agrego el remote san-siro
+2023-12-17 14:35:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:36:54 | Se ejecuta init
+2023-12-17 14:36:54 | Directorio gir creado en ./.gir
+2023-12-17 14:36:54 | Ejecutando comando remote
+2023-12-17 14:36:54 | Se agrego el remote san-siro
+2023-12-17 14:36:54 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:36:54 | Se ejecuta init
+2023-12-17 14:36:54 | Directorio gir creado en ./.gir
+2023-12-17 14:36:54 | Ejecutando comando remote
+2023-12-17 14:36:54 | Se agrego el remote san-siro
+2023-12-17 14:36:54 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:37:30 | Se ejecuta init
+2023-12-17 14:37:30 | Directorio gir creado en ./.gir
+2023-12-17 14:37:30 | Ejecutando comando remote
+2023-12-17 14:37:30 | Se agrego el remote san-siro
+2023-12-17 14:37:30 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:37:30 | Se ejecuta init
+2023-12-17 14:37:30 | Directorio gir creado en ./.gir
+2023-12-17 14:37:30 | Ejecutando comando remote
+2023-12-17 14:37:30 | Se agrego el remote san-siro
+2023-12-17 14:37:30 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:51:57 | Se ejecuta init
+2023-12-17 14:51:57 | Directorio gir creado en ./.gir
+2023-12-17 14:51:57 | Ejecutando comando remote
+2023-12-17 14:51:57 | Se agrego el remote san-siro
+2023-12-17 14:51:57 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:51:57 | Se ejecuta init
+2023-12-17 14:51:57 | Directorio gir creado en ./.gir
+2023-12-17 14:51:57 | Ejecutando comando remote
+2023-12-17 14:51:57 | Se agrego el remote san-siro
+2023-12-17 14:51:57 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:53:01 | Se ejecuta init
+2023-12-17 14:53:01 | Directorio gir creado en ./.gir
+2023-12-17 14:53:01 | Ejecutando comando remote
+2023-12-17 14:53:01 | Se agrego el remote san-siro
+2023-12-17 14:53:01 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 14:53:01 | Se ejecuta init
+2023-12-17 14:53:01 | Directorio gir creado en ./.gir
+2023-12-17 14:53:01 | Ejecutando comando remote
+2023-12-17 14:53:01 | Se agrego el remote san-siro
+2023-12-17 14:53:01 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:00:22 | Se ejecuta init
+2023-12-17 15:00:22 | Directorio gir creado en ./.gir
+2023-12-17 15:00:22 | Ejecutando comando remote
+2023-12-17 15:00:22 | Se agrego el remote san-siro
+2023-12-17 15:00:22 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:00:22 | Se ejecuta init
+2023-12-17 15:00:22 | Directorio gir creado en ./.gir
+2023-12-17 15:00:22 | Ejecutando comando remote
+2023-12-17 15:00:22 | Se agrego el remote san-siro
+2023-12-17 15:00:22 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:14:39 | Se ejecuta init
+2023-12-17 15:14:39 | Directorio gir creado en ./.gir
+2023-12-17 15:14:39 | Ejecutando comando remote
+2023-12-17 15:14:39 | Se agrego el remote san-siro
+2023-12-17 15:14:39 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:14:39 | Se ejecuta init
+2023-12-17 15:14:39 | Directorio gir creado en ./.gir
+2023-12-17 15:14:39 | Ejecutando comando remote
+2023-12-17 15:14:39 | Se agrego el remote san-siro
+2023-12-17 15:14:39 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:34:34 | Se ejecuta init
+2023-12-17 15:34:34 | Directorio gir creado en ./.gir
+2023-12-17 15:34:34 | Ejecutando comando remote
+2023-12-17 15:34:34 | Se agrego el remote san-siro
+2023-12-17 15:34:34 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:34:34 | Se ejecuta init
+2023-12-17 15:34:34 | Directorio gir creado en ./.gir
+2023-12-17 15:34:34 | Ejecutando comando remote
+2023-12-17 15:34:34 | Se agrego el remote san-siro
+2023-12-17 15:34:34 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:52:46 | Se ejecuta init
+2023-12-17 15:52:46 | Directorio gir creado en ./.gir
+2023-12-17 15:52:46 | Ejecutando comando remote
+2023-12-17 15:52:46 | Se agrego el remote san-siro
+2023-12-17 15:52:46 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:52:46 | Se ejecuta init
+2023-12-17 15:52:46 | Directorio gir creado en ./.gir
+2023-12-17 15:52:46 | Ejecutando comando remote
+2023-12-17 15:52:46 | Se agrego el remote san-siro
+2023-12-17 15:52:46 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:53:36 | Se ejecuta init
+2023-12-17 15:53:36 | Directorio gir creado en ./.gir
+2023-12-17 15:53:36 | Ejecutando comando remote
+2023-12-17 15:53:36 | Se agrego el remote san-siro
+2023-12-17 15:53:36 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 15:53:36 | Se ejecuta init
+2023-12-17 15:53:36 | Directorio gir creado en ./.gir
+2023-12-17 15:53:36 | Ejecutando comando remote
+2023-12-17 15:53:36 | Se agrego el remote san-siro
+2023-12-17 15:53:36 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:27:15 | Se ejecuta init
+2023-12-17 16:27:15 | Directorio gir creado en ./.gir
+2023-12-17 16:27:15 | Ejecutando comando remote
+2023-12-17 16:27:15 | Se agrego el remote san-siro
+2023-12-17 16:27:15 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:27:15 | Se ejecuta init
+2023-12-17 16:27:15 | Directorio gir creado en ./.gir
+2023-12-17 16:27:15 | Ejecutando comando remote
+2023-12-17 16:27:15 | Se agrego el remote san-siro
+2023-12-17 16:27:15 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:28:26 | Se ejecuta init
+2023-12-17 16:28:26 | Directorio gir creado en ./.gir
+2023-12-17 16:28:26 | Ejecutando comando remote
+2023-12-17 16:28:26 | Se agrego el remote san-siro
+2023-12-17 16:28:26 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:28:26 | Se ejecuta init
+2023-12-17 16:28:26 | Directorio gir creado en ./.gir
+2023-12-17 16:28:26 | Ejecutando comando remote
+2023-12-17 16:28:26 | Se agrego el remote san-siro
+2023-12-17 16:28:26 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:41:14 | Se ejecuta init
+2023-12-17 16:41:14 | Directorio gir creado en ./.gir
+2023-12-17 16:41:14 | Ejecutando comando remote
+2023-12-17 16:41:14 | Se agrego el remote san-siro
+2023-12-17 16:41:14 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-17 16:41:14 | Se ejecuta init
+2023-12-17 16:41:14 | Directorio gir creado en ./.gir
+2023-12-17 16:41:14 | Ejecutando comando remote
+2023-12-17 16:41:14 | Se agrego el remote san-siro
+2023-12-17 16:41:14 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 10:57:17 | Se ejecuta init
+2023-12-18 10:57:17 | Directorio gir creado en ./.gir
+2023-12-18 10:57:17 | Ejecutando comando remote
+2023-12-18 10:57:17 | Se agrego el remote san-siro
+2023-12-18 10:57:17 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 10:57:17 | Se ejecuta init
+2023-12-18 10:57:17 | Directorio gir creado en ./.gir
+2023-12-18 10:57:17 | Ejecutando comando remote
+2023-12-18 10:57:17 | Se agrego el remote san-siro
+2023-12-18 10:57:17 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:01:20 | Se ejecuta init
+2023-12-18 11:01:20 | Directorio gir creado en ./.gir
+2023-12-18 11:01:20 | Ejecutando comando remote
+2023-12-18 11:01:20 | Se agrego el remote san-siro
+2023-12-18 11:01:20 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:01:20 | Se ejecuta init
+2023-12-18 11:01:20 | Directorio gir creado en ./.gir
+2023-12-18 11:01:20 | Ejecutando comando remote
+2023-12-18 11:01:20 | Se agrego el remote san-siro
+2023-12-18 11:01:20 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:07:52 | Se ejecuta init
+2023-12-18 11:07:52 | Directorio gir creado en ./.gir
+2023-12-18 11:07:52 | Ejecutando comando remote
+2023-12-18 11:07:52 | Se agrego el remote san-siro
+2023-12-18 11:07:52 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:07:52 | Se ejecuta init
+2023-12-18 11:07:52 | Directorio gir creado en ./.gir
+2023-12-18 11:07:52 | Ejecutando comando remote
+2023-12-18 11:07:52 | Se agrego el remote san-siro
+2023-12-18 11:07:52 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:11:23 | Se ejecuta init
+2023-12-18 11:11:23 | Directorio gir creado en ./.gir
+2023-12-18 11:11:23 | Ejecutando comando remote
+2023-12-18 11:11:23 | Se agrego el remote san-siro
+2023-12-18 11:11:23 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:11:23 | Se ejecuta init
+2023-12-18 11:11:24 | Directorio gir creado en ./.gir
+2023-12-18 11:11:24 | Ejecutando comando remote
+2023-12-18 11:11:24 | Se agrego el remote san-siro
+2023-12-18 11:11:24 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:29:44 | Se ejecuta init
+2023-12-18 11:29:44 | Directorio gir creado en ./.gir
+2023-12-18 11:29:44 | Ejecutando comando remote
+2023-12-18 11:29:44 | Se agrego el remote san-siro
+2023-12-18 11:29:44 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:29:44 | Se ejecuta init
+2023-12-18 11:29:44 | Directorio gir creado en ./.gir
+2023-12-18 11:29:44 | Ejecutando comando remote
+2023-12-18 11:29:44 | Se agrego el remote san-siro
+2023-12-18 11:29:44 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:31:51 | Se ejecuta init
+2023-12-18 11:31:51 | Directorio gir creado en ./.gir
+2023-12-18 11:31:51 | Ejecutando comando remote
+2023-12-18 11:31:51 | Se agrego el remote san-siro
+2023-12-18 11:31:51 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:31:51 | Se ejecuta init
+2023-12-18 11:31:51 | Directorio gir creado en ./.gir
+2023-12-18 11:31:51 | Ejecutando comando remote
+2023-12-18 11:31:51 | Se agrego el remote san-siro
+2023-12-18 11:31:51 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:33:19 | Se ejecuta init
+2023-12-18 11:33:19 | Directorio gir creado en ./.gir
+2023-12-18 11:33:19 | Ejecutando comando remote
+2023-12-18 11:33:19 | Se agrego el remote san-siro
+2023-12-18 11:33:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 11:33:19 | Se ejecuta init
+2023-12-18 11:33:19 | Directorio gir creado en ./.gir
+2023-12-18 11:33:19 | Ejecutando comando remote
+2023-12-18 11:33:19 | Se agrego el remote san-siro
+2023-12-18 11:33:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 13:46:18 | Se ejecuta init
+2023-12-18 13:46:18 | Directorio gir creado en ./.gir
+2023-12-18 13:46:18 | Ejecutando comando remote
+2023-12-18 13:46:18 | Se agrego el remote san-siro
+2023-12-18 13:46:18 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 13:46:18 | Se ejecuta init
+2023-12-18 13:46:18 | Directorio gir creado en ./.gir
+2023-12-18 13:46:18 | Ejecutando comando remote
+2023-12-18 13:46:18 | Se agrego el remote san-siro
+2023-12-18 13:46:18 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 13:49:07 | Se ejecuta init
+2023-12-18 13:49:07 | Directorio gir creado en ./.gir
+2023-12-18 13:49:07 | Ejecutando comando remote
+2023-12-18 13:49:07 | Se agrego el remote san-siro
+2023-12-18 13:49:07 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 13:49:07 | Se ejecuta init
+2023-12-18 13:49:07 | Directorio gir creado en ./.gir
+2023-12-18 13:49:07 | Ejecutando comando remote
+2023-12-18 13:49:07 | Se agrego el remote san-siro
+2023-12-18 13:49:07 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:15:01 | Se ejecuta init
+2023-12-18 14:15:01 | Directorio gir creado en ./.gir
+2023-12-18 14:15:01 | Ejecutando comando remote
+2023-12-18 14:15:01 | Se agrego el remote san-siro
+2023-12-18 14:15:01 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:15:01 | Se ejecuta init
+2023-12-18 14:15:01 | Directorio gir creado en ./.gir
+2023-12-18 14:15:01 | Ejecutando comando remote
+2023-12-18 14:15:01 | Se agrego el remote san-siro
+2023-12-18 14:15:01 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:17:55 | Se ejecuta init
+2023-12-18 14:17:55 | Directorio gir creado en ./.gir
+2023-12-18 14:17:55 | Ejecutando comando remote
+2023-12-18 14:17:55 | Se agrego el remote san-siro
+2023-12-18 14:17:55 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:17:55 | Se ejecuta init
+2023-12-18 14:17:55 | Directorio gir creado en ./.gir
+2023-12-18 14:17:55 | Ejecutando comando remote
+2023-12-18 14:17:55 | Se agrego el remote san-siro
+2023-12-18 14:17:55 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:46:11 | Se ejecuta init
+2023-12-18 14:46:11 | Directorio gir creado en ./.gir
+2023-12-18 14:46:11 | Ejecutando comando remote
+2023-12-18 14:46:11 | Se agrego el remote san-siro
+2023-12-18 14:46:11 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 14:46:11 | Se ejecuta init
+2023-12-18 14:46:11 | Directorio gir creado en ./.gir
+2023-12-18 14:46:11 | Ejecutando comando remote
+2023-12-18 14:46:11 | Se agrego el remote san-siro
+2023-12-18 14:46:11 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:19:50 | Se ejecuta init
+2023-12-18 15:19:50 | Directorio gir creado en ./.gir
+2023-12-18 15:19:50 | Ejecutando comando remote
+2023-12-18 15:19:50 | Se agrego el remote san-siro
+2023-12-18 15:19:50 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:19:50 | Se ejecuta init
+2023-12-18 15:19:50 | Directorio gir creado en ./.gir
+2023-12-18 15:19:50 | Ejecutando comando remote
+2023-12-18 15:19:50 | Se agrego el remote san-siro
+2023-12-18 15:19:50 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:24:23 | Se ejecuta init
+2023-12-18 15:24:23 | Directorio gir creado en ./.gir
+2023-12-18 15:24:23 | Ejecutando comando remote
+2023-12-18 15:24:23 | Se agrego el remote san-siro
+2023-12-18 15:24:23 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:24:23 | Se ejecuta init
+2023-12-18 15:24:23 | Directorio gir creado en ./.gir
+2023-12-18 15:24:23 | Ejecutando comando remote
+2023-12-18 15:24:23 | Se agrego el remote san-siro
+2023-12-18 15:24:23 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:26:28 | Se ejecuta init
+2023-12-18 15:26:28 | Directorio gir creado en ./.gir
+2023-12-18 15:26:28 | Ejecutando comando remote
+2023-12-18 15:26:28 | Se agrego el remote san-siro
+2023-12-18 15:26:28 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-18 15:26:28 | Se ejecuta init
+2023-12-18 15:26:28 | Directorio gir creado en ./.gir
+2023-12-18 15:26:28 | Ejecutando comando remote
+2023-12-18 15:26:28 | Se agrego el remote san-siro
+2023-12-18 15:26:28 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 12:05:17 | Se ejecuta init
+2023-12-19 12:05:17 | Directorio gir creado en ./.gir
+2023-12-19 12:05:17 | Ejecutando comando remote
+2023-12-19 12:05:17 | Se agrego el remote san-siro
+2023-12-19 12:05:17 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 12:05:17 | Se ejecuta init
+2023-12-19 12:05:17 | Directorio gir creado en ./.gir
+2023-12-19 12:05:17 | Ejecutando comando remote
+2023-12-19 12:05:17 | Se agrego el remote san-siro
+2023-12-19 12:05:17 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:37:32 | Se ejecuta init
+2023-12-19 13:37:32 | Directorio gir creado en ./.gir
+2023-12-19 13:37:32 | Ejecutando comando remote
+2023-12-19 13:37:32 | Se agrego el remote san-siro
+2023-12-19 13:37:32 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:37:32 | Se ejecuta init
+2023-12-19 13:37:32 | Directorio gir creado en ./.gir
+2023-12-19 13:37:32 | Ejecutando comando remote
+2023-12-19 13:37:32 | Se agrego el remote san-siro
+2023-12-19 13:37:32 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:47:10 | Se ejecuta init
+2023-12-19 13:47:10 | Directorio gir creado en ./.gir
+2023-12-19 13:47:10 | Ejecutando comando remote
+2023-12-19 13:47:10 | Se agrego el remote san-siro
+2023-12-19 13:47:10 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:47:10 | Se ejecuta init
+2023-12-19 13:47:10 | Directorio gir creado en ./.gir
+2023-12-19 13:47:10 | Ejecutando comando remote
+2023-12-19 13:47:10 | Se agrego el remote san-siro
+2023-12-19 13:47:10 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:52:19 | Se ejecuta init
+2023-12-19 13:52:19 | Directorio gir creado en ./.gir
+2023-12-19 13:52:19 | Ejecutando comando remote
+2023-12-19 13:52:19 | Se agrego el remote san-siro
+2023-12-19 13:52:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:52:19 | Se ejecuta init
+2023-12-19 13:52:19 | Directorio gir creado en ./.gir
+2023-12-19 13:52:19 | Ejecutando comando remote
+2023-12-19 13:52:19 | Se agrego el remote san-siro
+2023-12-19 13:52:19 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:57:44 | Se ejecuta init
+2023-12-19 13:57:44 | Directorio gir creado en ./.gir
+2023-12-19 13:57:44 | Ejecutando comando remote
+2023-12-19 13:57:44 | Se agrego el remote san-siro
+2023-12-19 13:57:44 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:57:44 | Se ejecuta init
+2023-12-19 13:57:44 | Directorio gir creado en ./.gir
+2023-12-19 13:57:44 | Ejecutando comando remote
+2023-12-19 13:57:44 | Se agrego el remote san-siro
+2023-12-19 13:57:44 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:59:35 | Se ejecuta init
+2023-12-19 13:59:35 | Directorio gir creado en ./.gir
+2023-12-19 13:59:35 | Ejecutando comando remote
+2023-12-19 13:59:35 | Se agrego el remote san-siro
+2023-12-19 13:59:35 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 13:59:35 | Se ejecuta init
+2023-12-19 13:59:35 | Directorio gir creado en ./.gir
+2023-12-19 13:59:35 | Ejecutando comando remote
+2023-12-19 13:59:35 | Se agrego el remote san-siro
+2023-12-19 13:59:35 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 14:03:26 | Se ejecuta init
+2023-12-19 14:03:26 | Directorio gir creado en ./.gir
+2023-12-19 14:03:26 | Ejecutando comando remote
+2023-12-19 14:03:26 | Se agrego el remote san-siro
+2023-12-19 14:03:26 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 14:03:26 | Se ejecuta init
+2023-12-19 14:03:26 | Directorio gir creado en ./.gir
+2023-12-19 14:03:26 | Ejecutando comando remote
+2023-12-19 14:03:26 | Se agrego el remote san-siro
+2023-12-19 14:03:26 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 14:05:12 | Se ejecuta init
+2023-12-19 14:05:12 | Directorio gir creado en ./.gir
+2023-12-19 14:05:12 | Ejecutando comando remote
+2023-12-19 14:05:12 | Se agrego el remote san-siro
+2023-12-19 14:05:12 | Actualizacion de ramas remotas en fetch exitosa
+2023-12-19 14:05:12 | Se ejecuta init
+2023-12-19 14:05:12 | Directorio gir creado en ./.gir
+2023-12-19 14:05:12 | Ejecutando comando remote
+2023-12-19 14:05:12 | Se agrego el remote san-siro
+2023-12-19 14:05:12 | Actualizacion de ramas remotas en fetch exitosa

@@ -1,0 +1,2026 @@
+2023-12-16 15:55:31 | Ejecutando add
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Buscando archivos ignorados
+2023-12-16 15:55:31 | Check ignore finalizado
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-16 15:55:31 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-16 15:55:31 | commit 9366ca5c56c9f334498e11004163f257e3a07076
+ Author: 
+mensaje 
+2023-12-16 15:55:31 | Ejecutando ls-files
+2023-12-16 15:55:31 | Finalizando ls-files
+2023-12-17 11:27:27 | Ejecutando add
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Buscando archivos ignorados
+2023-12-17 11:27:27 | Check ignore finalizado
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:27:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:27:27 | commit cb3f673dbafd10b9775622729bacd612fbe7c66a
+ Author: 
+mensaje 
+2023-12-17 11:27:27 | Ejecutando ls-files
+2023-12-17 11:27:27 | Finalizando ls-files
+2023-12-17 11:28:04 | Ejecutando add
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Buscando archivos ignorados
+2023-12-17 11:28:04 | Check ignore finalizado
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:04 | commit 41ea9640ff319ed6a517342562f80eac93e6b579
+ Author: 
+mensaje 
+2023-12-17 11:28:04 | Ejecutando ls-files
+2023-12-17 11:28:04 | Finalizando ls-files
+2023-12-17 11:28:58 | Ejecutando add
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Buscando archivos ignorados
+2023-12-17 11:28:58 | Check ignore finalizado
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:28:58 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:28:58 | commit 00bc2178d7a65d9d5645596449d44a681098d70e
+ Author: 
+mensaje 
+2023-12-17 11:28:58 | Ejecutando ls-files
+2023-12-17 11:28:58 | Finalizando ls-files
+2023-12-17 11:29:45 | Ejecutando add
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Buscando archivos ignorados
+2023-12-17 11:29:45 | Check ignore finalizado
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:29:45 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:29:45 | commit 026f49777da360c730aca50bd6f198da12072221
+ Author: 
+mensaje 
+2023-12-17 11:29:45 | Ejecutando ls-files
+2023-12-17 11:29:45 | Finalizando ls-files
+2023-12-17 11:31:35 | Ejecutando add
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Buscando archivos ignorados
+2023-12-17 11:31:35 | Check ignore finalizado
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:31:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:31:35 | commit 57bf531c3acdf080dae03750859adf3a3f566df9
+ Author: 
+mensaje 
+2023-12-17 11:31:35 | Ejecutando ls-files
+2023-12-17 11:31:35 | Finalizando ls-files
+2023-12-17 11:34:16 | Ejecutando add
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Buscando archivos ignorados
+2023-12-17 11:34:16 | Check ignore finalizado
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:34:16 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:34:16 | commit 47bdd06b083013173442b67b3d34d3466caeb17b
+ Author: 
+mensaje 
+2023-12-17 11:34:16 | Ejecutando ls-files
+2023-12-17 11:34:16 | Finalizando ls-files
+2023-12-17 11:35:27 | Ejecutando add
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Buscando archivos ignorados
+2023-12-17 11:35:27 | Check ignore finalizado
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:35:27 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:35:27 | commit bc8b764b15b87142bfb5aa252d76f880ab13fe04
+ Author: 
+mensaje 
+2023-12-17 11:35:27 | Ejecutando ls-files
+2023-12-17 11:35:27 | Finalizando ls-files
+2023-12-17 11:38:38 | Ejecutando add
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Buscando archivos ignorados
+2023-12-17 11:38:38 | Check ignore finalizado
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:38:38 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:38:38 | commit 515edcf7b5a4dcb0b6817fb828708bd292521282
+ Author: 
+mensaje 
+2023-12-17 11:38:38 | Ejecutando ls-files
+2023-12-17 11:38:38 | Finalizando ls-files
+2023-12-17 11:49:12 | Ejecutando add
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Buscando archivos ignorados
+2023-12-17 11:49:12 | Check ignore finalizado
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:49:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:49:12 | commit 86c687b8e9984177089c2908be374b6a47f65ad1
+ Author: 
+mensaje 
+2023-12-17 11:49:12 | Ejecutando ls-files
+2023-12-17 11:49:12 | Finalizando ls-files
+2023-12-17 11:51:37 | Ejecutando add
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Buscando archivos ignorados
+2023-12-17 11:51:37 | Check ignore finalizado
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:51:37 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:51:37 | commit c281e524495e154fda95c828e4a29e2a2cf34530
+ Author: 
+mensaje 
+2023-12-17 11:51:37 | Ejecutando ls-files
+2023-12-17 11:51:37 | Finalizando ls-files
+2023-12-17 11:56:12 | Ejecutando add
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Buscando archivos ignorados
+2023-12-17 11:56:12 | Check ignore finalizado
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 11:56:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 11:56:12 | commit 1c6a65d12fd4288ba4b6bb605442bc7ec8e7e65b
+ Author: 
+mensaje 
+2023-12-17 11:56:12 | Ejecutando ls-files
+2023-12-17 11:56:12 | Finalizando ls-files
+2023-12-17 12:14:06 | Ejecutando add
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Buscando archivos ignorados
+2023-12-17 12:14:06 | Check ignore finalizado
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 12:14:06 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 12:14:06 | commit 56f3e3a5b66387b127df2cb1369b12b8c37a942a
+ Author: 
+mensaje 
+2023-12-17 12:14:06 | Ejecutando ls-files
+2023-12-17 12:14:06 | Finalizando ls-files
+2023-12-17 13:09:19 | Ejecutando add
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Buscando archivos ignorados
+2023-12-17 13:09:19 | Check ignore finalizado
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 13:09:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 13:09:19 | commit 4b3b49e0046f9f50d05f05fea59e9d899adabd49
+ Author: 
+mensaje 
+2023-12-17 13:09:19 | Ejecutando ls-files
+2023-12-17 13:09:19 | Finalizando ls-files
+2023-12-17 14:01:04 | Ejecutando add
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Buscando archivos ignorados
+2023-12-17 14:01:04 | Check ignore finalizado
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:04 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:04 | commit a88965dd3a73b565d16faf770e9b058fd60f434c
+ Author: 
+mensaje 
+2023-12-17 14:01:04 | Ejecutando ls-files
+2023-12-17 14:01:04 | Finalizando ls-files
+2023-12-17 14:01:36 | Ejecutando add
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Buscando archivos ignorados
+2023-12-17 14:01:36 | Check ignore finalizado
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:01:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:01:36 | commit 9ea8fb302d12b078a4a23cc5c93f5642b3e2cf02
+ Author: 
+mensaje 
+2023-12-17 14:01:36 | Ejecutando ls-files
+2023-12-17 14:01:36 | Finalizando ls-files
+2023-12-17 14:02:46 | Ejecutando add
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Buscando archivos ignorados
+2023-12-17 14:02:46 | Check ignore finalizado
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:02:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:02:46 | commit 5e2fa6c9e37ca893ec32d6164b130a7a18991cd6
+ Author: 
+mensaje 
+2023-12-17 14:02:46 | Ejecutando ls-files
+2023-12-17 14:02:46 | Finalizando ls-files
+2023-12-17 14:32:05 | Ejecutando add
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Buscando archivos ignorados
+2023-12-17 14:32:05 | Check ignore finalizado
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:32:05 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:32:05 | commit 088274d20e404b7cde3ade3e1232fdb3ac34dfef
+ Author: 
+mensaje 
+2023-12-17 14:32:05 | Ejecutando ls-files
+2023-12-17 14:32:05 | Finalizando ls-files
+2023-12-17 14:35:19 | Ejecutando add
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Buscando archivos ignorados
+2023-12-17 14:35:19 | Check ignore finalizado
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:35:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:35:19 | commit 137b370eb45645c08f462d272f07a638caf0ca11
+ Author: 
+mensaje 
+2023-12-17 14:35:19 | Ejecutando ls-files
+2023-12-17 14:35:19 | Finalizando ls-files
+2023-12-17 14:36:54 | Ejecutando add
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Buscando archivos ignorados
+2023-12-17 14:36:54 | Check ignore finalizado
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:36:54 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:36:54 | commit d4026d59a52a226ca915401d1f045262d38f889b
+ Author: 
+mensaje 
+2023-12-17 14:36:54 | Ejecutando ls-files
+2023-12-17 14:36:54 | Finalizando ls-files
+2023-12-17 14:37:30 | Ejecutando add
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Buscando archivos ignorados
+2023-12-17 14:37:30 | Check ignore finalizado
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:37:30 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:37:30 | commit d3af495adf15d56aa32e68bb4901e58f99398022
+ Author: 
+mensaje 
+2023-12-17 14:37:30 | Ejecutando ls-files
+2023-12-17 14:37:30 | Finalizando ls-files
+2023-12-17 14:51:57 | Ejecutando add
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Buscando archivos ignorados
+2023-12-17 14:51:57 | Check ignore finalizado
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:51:57 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:51:57 | commit 82382c9eda9596e8b4a7ba60aceaec5a3de6cac4
+ Author: 
+mensaje 
+2023-12-17 14:51:57 | Ejecutando ls-files
+2023-12-17 14:51:57 | Finalizando ls-files
+2023-12-17 14:53:01 | Ejecutando add
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Buscando archivos ignorados
+2023-12-17 14:53:01 | Check ignore finalizado
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 14:53:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 14:53:01 | commit 99feb15e05286c7bcb031249ea3475c10803eff3
+ Author: 
+mensaje 
+2023-12-17 14:53:01 | Ejecutando ls-files
+2023-12-17 14:53:01 | Finalizando ls-files
+2023-12-17 15:00:22 | Ejecutando add
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Buscando archivos ignorados
+2023-12-17 15:00:22 | Check ignore finalizado
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:00:22 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:00:22 | commit dfe73285d0a176300b7f2a055d7c30a5082741a2
+ Author: 
+mensaje 
+2023-12-17 15:00:22 | Ejecutando ls-files
+2023-12-17 15:00:22 | Finalizando ls-files
+2023-12-17 15:14:39 | Ejecutando add
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Buscando archivos ignorados
+2023-12-17 15:14:39 | Check ignore finalizado
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:14:39 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:14:39 | commit 79c017a6cfed8e1ce4a72b64327a2badb397d986
+ Author: 
+mensaje 
+2023-12-17 15:14:39 | Ejecutando ls-files
+2023-12-17 15:14:39 | Finalizando ls-files
+2023-12-17 15:34:34 | Ejecutando add
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Buscando archivos ignorados
+2023-12-17 15:34:34 | Check ignore finalizado
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:34:34 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:34:34 | commit a975f415ddbb0a16dd94ee81382d834a07d588d1
+ Author: 
+mensaje 
+2023-12-17 15:34:34 | Ejecutando ls-files
+2023-12-17 15:34:34 | Finalizando ls-files
+2023-12-17 15:52:46 | Ejecutando add
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Buscando archivos ignorados
+2023-12-17 15:52:46 | Check ignore finalizado
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:52:46 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:52:46 | commit 36083c46c2921a4241a55c670f12c80b9f3a5d13
+ Author: 
+mensaje 
+2023-12-17 15:52:46 | Ejecutando ls-files
+2023-12-17 15:52:46 | Finalizando ls-files
+2023-12-17 15:53:36 | Ejecutando add
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Buscando archivos ignorados
+2023-12-17 15:53:36 | Check ignore finalizado
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 15:53:36 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 15:53:36 | commit fbdebef93de6d31fb99dcd7397e16a931b7e3ebe
+ Author: 
+mensaje 
+2023-12-17 15:53:36 | Ejecutando ls-files
+2023-12-17 15:53:36 | Finalizando ls-files
+2023-12-17 16:27:15 | Ejecutando add
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Buscando archivos ignorados
+2023-12-17 16:27:15 | Check ignore finalizado
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:27:15 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:27:15 | commit 535bfcabb639061d4e260e4044e32b073e999957
+ Author: 
+mensaje 
+2023-12-17 16:27:15 | Ejecutando ls-files
+2023-12-17 16:27:15 | Finalizando ls-files
+2023-12-17 16:28:26 | Ejecutando add
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Buscando archivos ignorados
+2023-12-17 16:28:26 | Check ignore finalizado
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:28:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:28:26 | commit bd9c54788d499b858e5ab16552ac138a36f2f4bd
+ Author: 
+mensaje 
+2023-12-17 16:28:26 | Ejecutando ls-files
+2023-12-17 16:28:26 | Finalizando ls-files
+2023-12-17 16:41:14 | Ejecutando add
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Buscando archivos ignorados
+2023-12-17 16:41:14 | Check ignore finalizado
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-17 16:41:14 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-17 16:41:14 | commit a96c425e5f2b796af6fc952994cfd9e95cf7f38d
+ Author: 
+mensaje 
+2023-12-17 16:41:14 | Ejecutando ls-files
+2023-12-17 16:41:14 | Finalizando ls-files
+2023-12-18 10:57:17 | Ejecutando add
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Buscando archivos ignorados
+2023-12-18 10:57:17 | Check ignore finalizado
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 10:57:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 10:57:17 | commit c28bce65719130790cb025a34aeb5e202be14a61
+ Author: 
+mensaje 
+2023-12-18 10:57:17 | Ejecutando ls-files
+2023-12-18 10:57:17 | Finalizando ls-files
+2023-12-18 11:01:20 | Ejecutando add
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Buscando archivos ignorados
+2023-12-18 11:01:20 | Check ignore finalizado
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:01:20 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:01:20 | commit 52d386ef03374fd78378db010e79b8aa01cd5437
+ Author: 
+mensaje 
+2023-12-18 11:01:20 | Ejecutando ls-files
+2023-12-18 11:01:20 | Finalizando ls-files
+2023-12-18 11:07:52 | Ejecutando add
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Buscando archivos ignorados
+2023-12-18 11:07:52 | Check ignore finalizado
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:07:52 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:07:52 | commit 2da2d727b02612463221310a7dc2fd90bcf62e00
+ Author: 
+mensaje 
+2023-12-18 11:07:52 | Ejecutando ls-files
+2023-12-18 11:07:52 | Finalizando ls-files
+2023-12-18 11:11:24 | Ejecutando add
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Buscando archivos ignorados
+2023-12-18 11:11:24 | Check ignore finalizado
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:11:24 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:11:24 | commit 37e61013537fe3136ec4db552c7f13f0b2db2a0b
+ Author: 
+mensaje 
+2023-12-18 11:11:24 | Ejecutando ls-files
+2023-12-18 11:11:24 | Finalizando ls-files
+2023-12-18 11:29:44 | Ejecutando add
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Buscando archivos ignorados
+2023-12-18 11:29:44 | Check ignore finalizado
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:29:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:29:44 | commit e0bc86ec0ba905c55e1b27d3014344df35214f59
+ Author: 
+mensaje 
+2023-12-18 11:29:44 | Ejecutando ls-files
+2023-12-18 11:29:44 | Finalizando ls-files
+2023-12-18 11:31:51 | Ejecutando add
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Buscando archivos ignorados
+2023-12-18 11:31:51 | Check ignore finalizado
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:31:51 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:31:51 | commit 3bcaeafb94dfa7b90413343d24a1904b5be508a7
+ Author: 
+mensaje 
+2023-12-18 11:31:51 | Ejecutando ls-files
+2023-12-18 11:31:51 | Finalizando ls-files
+2023-12-18 11:33:19 | Ejecutando add
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Buscando archivos ignorados
+2023-12-18 11:33:19 | Check ignore finalizado
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 11:33:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 11:33:19 | commit b314d6899ae7e7f8efb05addcc020f49377c3a0b
+ Author: 
+mensaje 
+2023-12-18 11:33:19 | Ejecutando ls-files
+2023-12-18 11:33:19 | Finalizando ls-files
+2023-12-18 13:46:18 | Ejecutando add
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Buscando archivos ignorados
+2023-12-18 13:46:18 | Check ignore finalizado
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:46:18 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:46:18 | commit cba609bdd3efa2a2995e136df27b5ae64b4156ac
+ Author: 
+mensaje 
+2023-12-18 13:46:18 | Ejecutando ls-files
+2023-12-18 13:46:18 | Finalizando ls-files
+2023-12-18 13:49:07 | Ejecutando add
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Buscando archivos ignorados
+2023-12-18 13:49:07 | Check ignore finalizado
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 13:49:07 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 13:49:07 | commit 2dffb2e7d05731487700c624c0b2a7ed8e5ba02e
+ Author: 
+mensaje 
+2023-12-18 13:49:07 | Ejecutando ls-files
+2023-12-18 13:49:07 | Finalizando ls-files
+2023-12-18 14:15:01 | Se ejecuta init
+2023-12-18 14:15:01 | Directorio gir creado en ./.gir
+2023-12-18 14:15:01 | Ejecutando add
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Buscando archivos ignorados
+2023-12-18 14:15:01 | Check ignore finalizado
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:15:01 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:15:01 | commit 72b4897fce1c4fe85237818f229ba73f9e17dc72
+ Author: 
+mensaje 
+2023-12-18 14:15:01 | Ejecutando ls-files
+2023-12-18 14:15:01 | Finalizando ls-files
+2023-12-18 14:17:55 | Se ejecuta init
+2023-12-18 14:17:55 | Directorio gir creado en ./.gir
+2023-12-18 14:17:55 | Ejecutando add
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Buscando archivos ignorados
+2023-12-18 14:17:55 | Check ignore finalizado
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:17:55 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:17:55 | commit 69109389eeae62b4472a41fe4cd84a4fdc5918d3
+ Author: 
+mensaje 
+2023-12-18 14:17:55 | Ejecutando ls-files
+2023-12-18 14:17:55 | Finalizando ls-files
+2023-12-18 14:46:11 | Se ejecuta init
+2023-12-18 14:46:11 | Directorio gir creado en ./.gir
+2023-12-18 14:46:11 | Ejecutando add
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Buscando archivos ignorados
+2023-12-18 14:46:11 | Check ignore finalizado
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 14:46:11 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 14:46:11 | commit c5755feaa345e38bdac6ed18de71da1fae36867e
+ Author: 
+mensaje 
+2023-12-18 14:46:11 | Ejecutando ls-files
+2023-12-18 14:46:11 | Finalizando ls-files
+2023-12-18 15:19:50 | Se ejecuta init
+2023-12-18 15:19:50 | Directorio gir creado en ./.gir
+2023-12-18 15:19:50 | Ejecutando add
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Buscando archivos ignorados
+2023-12-18 15:19:50 | Check ignore finalizado
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:19:50 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:19:50 | commit 167b081d2e1b868a7a321da4a32dbd56ff2b40d2
+ Author: 
+mensaje 
+2023-12-18 15:19:50 | Ejecutando ls-files
+2023-12-18 15:19:50 | Finalizando ls-files
+2023-12-18 15:24:23 | Se ejecuta init
+2023-12-18 15:24:23 | Directorio gir creado en ./.gir
+2023-12-18 15:24:23 | Ejecutando add
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Buscando archivos ignorados
+2023-12-18 15:24:23 | Check ignore finalizado
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:24:23 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:24:23 | commit a8758cad94569e4f596c985473f274e0d35de0fe
+ Author: 
+mensaje 
+2023-12-18 15:24:23 | Ejecutando ls-files
+2023-12-18 15:24:23 | Finalizando ls-files
+2023-12-18 15:26:28 | Se ejecuta init
+2023-12-18 15:26:28 | Directorio gir creado en ./.gir
+2023-12-18 15:26:28 | Ejecutando add
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Buscando archivos ignorados
+2023-12-18 15:26:28 | Check ignore finalizado
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-18 15:26:28 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-18 15:26:28 | commit 8a98c8e0a5472a8e096b12152536b32f0a7436c8
+ Author: 
+mensaje 
+2023-12-18 15:26:28 | Ejecutando ls-files
+2023-12-18 15:26:28 | Finalizando ls-files
+2023-12-19 12:05:17 | Se ejecuta init
+2023-12-19 12:05:17 | Directorio gir creado en ./.gir
+2023-12-19 12:05:17 | Ejecutando add
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Buscando archivos ignorados
+2023-12-19 12:05:17 | Check ignore finalizado
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 12:05:17 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 12:05:17 | commit a17dbeae5e4ed74f82fe2ef9963d1216a9346dc0
+ Author: 
+mensaje 
+2023-12-19 12:05:17 | Ejecutando ls-files
+2023-12-19 12:05:17 | Finalizando ls-files
+2023-12-19 13:37:32 | Se ejecuta init
+2023-12-19 13:37:32 | Directorio gir creado en ./.gir
+2023-12-19 13:37:32 | Ejecutando add
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Buscando archivos ignorados
+2023-12-19 13:37:32 | Check ignore finalizado
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:37:32 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:37:32 | commit 9b46af4c3ab3bf57d31fc92c2ce58448d3529d37
+ Author: 
+mensaje 
+2023-12-19 13:37:32 | Ejecutando ls-files
+2023-12-19 13:37:32 | Finalizando ls-files
+2023-12-19 13:47:10 | Se ejecuta init
+2023-12-19 13:47:10 | Directorio gir creado en ./.gir
+2023-12-19 13:47:10 | Ejecutando add
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Buscando archivos ignorados
+2023-12-19 13:47:10 | Check ignore finalizado
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:47:10 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:47:10 | commit 39ca86eabfe675b6a55576902d174b6dfa9f88d2
+ Author: 
+mensaje 
+2023-12-19 13:47:10 | Ejecutando ls-files
+2023-12-19 13:47:10 | Finalizando ls-files
+2023-12-19 13:52:19 | Se ejecuta init
+2023-12-19 13:52:19 | Directorio gir creado en ./.gir
+2023-12-19 13:52:19 | Ejecutando add
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Buscando archivos ignorados
+2023-12-19 13:52:19 | Check ignore finalizado
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:52:19 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:52:19 | commit be6a596b8848d93d284aef2c8d416aaf39cf40c4
+ Author: 
+mensaje 
+2023-12-19 13:52:19 | Ejecutando ls-files
+2023-12-19 13:52:19 | Finalizando ls-files
+2023-12-19 13:57:44 | Se ejecuta init
+2023-12-19 13:57:44 | Directorio gir creado en ./.gir
+2023-12-19 13:57:44 | Ejecutando add
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Buscando archivos ignorados
+2023-12-19 13:57:44 | Check ignore finalizado
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:57:44 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:57:44 | commit 380c154837b2de4e237d21f8dfd05655dcb90482
+ Author: 
+mensaje 
+2023-12-19 13:57:44 | Ejecutando ls-files
+2023-12-19 13:57:44 | Finalizando ls-files
+2023-12-19 13:59:35 | Se ejecuta init
+2023-12-19 13:59:35 | Directorio gir creado en ./.gir
+2023-12-19 13:59:35 | Ejecutando add
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Buscando archivos ignorados
+2023-12-19 13:59:35 | Check ignore finalizado
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 13:59:35 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 13:59:35 | commit b92ccf96144864d1739fa82f6932b4de89a7fda1
+ Author: 
+mensaje 
+2023-12-19 13:59:35 | Ejecutando ls-files
+2023-12-19 13:59:35 | Finalizando ls-files
+2023-12-19 14:03:26 | Se ejecuta init
+2023-12-19 14:03:26 | Directorio gir creado en ./.gir
+2023-12-19 14:03:26 | Ejecutando add
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Buscando archivos ignorados
+2023-12-19 14:03:26 | Check ignore finalizado
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:03:26 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:03:26 | commit 25d5abaf70a17893250039b8e133af872ac0149a
+ Author: 
+mensaje 
+2023-12-19 14:03:26 | Ejecutando ls-files
+2023-12-19 14:03:26 | Finalizando ls-files
+2023-12-19 14:05:12 | Se ejecuta init
+2023-12-19 14:05:12 | Directorio gir creado en ./.gir
+2023-12-19 14:05:12 | Ejecutando add
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Agregando test_dir/muchos_objetos/archivo.txt al index
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Agregando test_dir/muchos_objetos/archivo_copy.txt al index
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Agregando test_dir/objetos/archivo.txt al index
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Buscando archivos ignorados
+2023-12-19 14:05:12 | Check ignore finalizado
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/muchos_objetos/archivo_copy.txt
+2023-12-19 14:05:12 | Objeto gir hasheado en test_dir/objetos/archivo.txt
+2023-12-19 14:05:12 | commit 47012bb42cafaeab0e75726ed7a99c31f495c5e3
+ Author: 
+mensaje 
+2023-12-19 14:05:12 | Ejecutando ls-files
+2023-12-19 14:05:12 | Finalizando ls-files
